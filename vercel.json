@@ -8,6 +8,18 @@
   ],
   "routes": [
     {
+      "src": "/$",
+      "dest": "/landing-page.html"
+    },
+    {
+      "src": "/css/(.*)",
+      "dest": "/css/$1"
+    },
+    {
+      "src": "/img/(.*)",
+      "dest": "/img/$1"
+    },
+    {
       "src": "/(.*)",
       "dest": "/landing-page.html"
     }
