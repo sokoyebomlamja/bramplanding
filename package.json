@@ -2,8 +2,7 @@
   "name": "bramp-landing",
   "version": "1.0.0",
   "scripts": {
-    "dev": "echo \"Static site, no development server needed\"",
-    "build": "echo \"No build needed for static site\"",
-    "start": "echo \"Static site, no start needed\""
-  }
+    "build": "echo \"No build needed for static site\""
+  },
+  "main": "index.html"
 }
