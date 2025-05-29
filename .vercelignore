@@ -1,0 +1,8 @@
+.git
+.gitignore
+README.md
+package.json
+vercel.json
+now.json
+build.sh
+*.json
