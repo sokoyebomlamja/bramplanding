@@ -9,6 +9,7 @@
   width: 100%;
   max-width: 100%;
   overflow-x: hidden;
+  min-height: 100vh;
 }
 
 .landing-page .landing-page-1 {
@@ -27,7 +28,7 @@
   background-color: #efeddb;
   display: flex;
   flex-direction: column;
-  height: 733px;
+  min-height: 733px;
   overflow: hidden;
   position: relative;
   width: 100%;
@@ -721,8 +722,9 @@
   flex-direction: column;
   flex-grow: 1;
   gap: 16px;
-  height: 680px;
+  min-height: 680px;
   justify-content: flex-end;
+  display: flex;
 }
 
 .landing-page .frame-1000004179 {
