@@ -1,0 +1,39 @@
+.theme-light-true {
+  height: 47px;
+  left: 10px;
+  position: relative;
+  top: 834px;
+  width: 390px;
+}
+
+.theme-light-true .statusbars-time-wrapper {
+  height: 21px;
+  left: 27px;
+  position: absolute;
+  top: 14px;
+  width: 54px;
+}
+
+.theme-light-true .right-side-2 {
+  height: 13px;
+  left: 286px;
+  position: absolute;
+  top: 19px;
+  width: 77px;
+}
+
+.theme-light-true .wifi-2 {
+  height: 12px;
+  left: 26px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.theme-light-true .icon-mobile-signal-2 {
+  height: 12px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}

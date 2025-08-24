@@ -1,0 +1,87 @@
+.logo {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  left: 16px;
+  position: relative;
+}
+
+.logo .fluent-emoji-high {
+  align-items: center;
+  border-radius: 3.76px;
+  display: flex;
+  gap: 7.53px;
+  height: 32px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 3.76px;
+  position: relative;
+  width: 32px;
+}
+
+.logo .vector {
+  aspect-ratio: 1.24;
+  height: 16.5px;
+  position: relative;
+  width: 20.9px;
+}
+
+.logo .text-wrapper {
+  font-family: "Geist", Helvetica;
+  font-size: 32px;
+  font-weight: 600;
+  letter-spacing: 0.96px;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.logo.b-w {
+  top: 148px;
+}
+
+.logo.black {
+  top: 104px;
+}
+
+.logo.white {
+  top: 60px;
+}
+
+.logo.brand {
+  top: 16px;
+}
+
+.logo.b-w .fluent-emoji-high {
+  background-color: var(--tokens-white);
+}
+
+.logo.black .fluent-emoji-high {
+  background-color: var(--tokens-secondary-button);
+}
+
+.logo.white .fluent-emoji-high {
+  background-color: var(--tokens-white);
+}
+
+.logo.brand .fluent-emoji-high {
+  background-color: #007337;
+}
+
+.logo.b-w .text-wrapper {
+  color: var(--tokens-white);
+}
+
+.logo.black .text-wrapper {
+  color: var(--tokens-dark-text);
+}
+
+.logo.white .text-wrapper {
+  color: var(--tokens-white);
+}
+
+.logo.brand .text-wrapper {
+  color: var(--tokens-primary-hover);
+}

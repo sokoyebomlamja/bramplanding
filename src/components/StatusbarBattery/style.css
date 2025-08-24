@@ -1,0 +1,175 @@
+.statusbar-battery {
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+
+.statusbar-battery .overlap-group {
+  left: 0;
+  position: absolute;
+  width: 25px;
+}
+
+.statusbar-battery .fill {
+  height: 9px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+}
+
+.statusbar-battery .outline {
+  position: absolute;
+}
+
+.statusbar-battery .percentage {
+  color: var(--label-colordarkprimary);
+  font-family: "SF Pro Text-Bold", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  height: 13px;
+  left: 6px;
+  letter-spacing: 0.06px;
+  line-height: 13px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.statusbar-battery .SF-sybol-bolt-fill {
+  height: 13px;
+  left: 8px;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.statusbar-battery .percentage-icon {
+  align-items: center;
+  display: inline-flex;
+  gap: 1px;
+  justify-content: center;
+  left: 3px;
+  position: relative;
+}
+
+.statusbar-battery .percentage-2 {
+  color: var(--label-colordarkprimary);
+  font-family: "SF Pro Text-Bold", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.06px;
+  line-height: 13px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.statusbar-battery .img {
+  height: 7.51px;
+  position: relative;
+  width: 4.84px;
+}
+
+.statusbar-battery .battery-end {
+  height: 4px;
+  left: 26px;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
+.statusbar-battery .exclude {
+  height: 13px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.statusbar-battery .charging-true {
+  background-size: 100% 100%;
+  height: 13px;
+  top: 0;
+}
+
+.statusbar-battery .seventy {
+  background-size: 100% 100%;
+  height: 13px;
+  top: 0;
+}
+
+.statusbar-battery .one-hundred {
+  background-size: 100% 100%;
+  height: 13px;
+  top: 0;
+}
+
+.statusbar-battery .charging-false.dark-mode-2-true {
+  background-image: url(../../../static/img/outline-9.png);
+}
+
+.statusbar-battery .charging-false.variable {
+  height: 14px;
+  top: -1px;
+}
+
+.statusbar-battery .dark-mode-2-false.charging-true.seventy {
+  background-image: url(../../../static/img/subtract.png);
+}
+
+.statusbar-battery .charging-true.dark-mode-2-true.seventy {
+  background-image: url(../../../static/img/subtract-2.png);
+}
+
+.statusbar-battery .charging-false.dark-mode-2-false.percentage-false {
+  background-image: url(../../../static/img/outline-5.png);
+}
+
+.statusbar-battery .dark-mode-2-false.charging-true.percentage-true.variable {
+  background-image: url(../../../static/img/outline-8.png);
+}
+
+.statusbar-battery .charging-true.dark-mode-2-true.percentage-true.one-hundred {
+  background-image: url(../../../static/img/outline-11.png);
+}
+
+.statusbar-battery
+  .dark-mode-2-false.charging-true.percentage-true.one-hundred {
+  background-image: url(../../../static/img/outline-8.png);
+}
+
+.statusbar-battery .charging-true.dark-mode-2-true.percentage-true.variable {
+  background-image: url(../../../static/img/outline-11.png);
+}
+
+.statusbar-battery .overlap-group.one-hundred .fill {
+  width: 21px;
+}
+
+.statusbar-battery .overlap-group.seventy .fill {
+  width: 15px;
+}
+
+.statusbar-battery .overlap-group.variable .outline {
+  height: 13px;
+  left: 0;
+  top: 1px;
+  width: 25px;
+}
+
+.statusbar-battery .overlap-group.percentage-false.seventy .outline {
+  height: 9px;
+  left: 2px;
+  top: 2px;
+  width: 16px;
+}
+
+.statusbar-battery .overlap-group.percentage-false.one-hundred .outline {
+  height: 9px;
+  left: 2px;
+  top: 2px;
+  width: 16px;
+}

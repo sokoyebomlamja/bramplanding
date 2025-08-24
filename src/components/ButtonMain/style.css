@@ -1,0 +1,318 @@
+.button-main {
+  align-items: center;
+  border-radius: 200px;
+  display: inline-flex;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+}
+
+.button-main .class {
+  height: 20px !important;
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+  width: 20px !important;
+}
+
+.button-main .class-2 {
+  height: 16px !important;
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+  width: 16px !important;
+}
+
+.button-main .primary-button {
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button-main .frame-10 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+}
+
+.button-main .primary-button-2 {
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button-main.primary {
+  left: 24px;
+}
+
+.button-main.state-outline {
+  border: 1px solid;
+}
+
+.button-main.state-disabled {
+  background-color: var(--tokens-stroke);
+}
+
+.button-main.state-hover {
+  background-color: var(--tokens-primary-hover);
+}
+
+.button-main.state-default.size-small {
+  padding: 4px 8px;
+  top: 16px;
+}
+
+.button-main.size-default.state-disabled {
+  padding: 8px 12px;
+}
+
+.button-main.size-default.state-hover {
+  padding: 8px 12px;
+  top: 341px;
+}
+
+.button-main.state-hover.size-small {
+  padding: 4px 8px;
+  top: 57px;
+}
+
+.button-main.state-outline.size-large {
+  padding: 12px;
+}
+
+.button-main.secondary.size-large {
+  left: 334px;
+}
+
+.button-main.size-large.state-disabled {
+  padding: 12px;
+}
+
+.button-main.size-default.state-text-button {
+  padding: 8px 0px;
+}
+
+.button-main.size-default.secondary {
+  left: 356px;
+}
+
+.button-main.state-default.size-large {
+  padding: 12px;
+  top: 569px;
+}
+
+.button-main.state-outline.primary {
+  border-color: var(--tokens-primary-button);
+}
+
+.button-main.size-default.state-default {
+  padding: 8px 12px;
+  top: 292px;
+}
+
+.button-main.state-hover.size-large {
+  padding: 12px;
+  top: 629px;
+}
+
+.button-main.state-text-button.size-large {
+  padding: 12px 0px;
+}
+
+.button-main.primary.state-default {
+  background-color: var(--tokens-primary-button);
+}
+
+.button-main.size-default.state-outline {
+  padding: 8px 12px;
+}
+
+.button-main.state-outline.size-small {
+  padding: 4px 8px;
+}
+
+.button-main.size-small.state-disabled {
+  padding: 4px 8px;
+}
+
+.button-main.secondary.state-default {
+  background-color: var(--tokens-secondary-button);
+}
+
+.button-main.state-outline.secondary {
+  background-color: var(--tokens-white);
+  border-color: var(--tokens-secondary-button);
+}
+
+.button-main.size-small.state-text-button {
+  padding: 4px 0px;
+}
+
+.button-main.secondary.size-small {
+  left: 364px;
+}
+
+.button-main.size-default.secondary.state-text-button {
+  top: 439px;
+}
+
+.button-main.size-default.primary.state-text-button {
+  top: 488px;
+}
+
+.button-main.size-small.primary.state-text-button {
+  top: 180px;
+}
+
+.button-main.state-outline.secondary.size-large {
+  top: 629px;
+}
+
+.button-main.size-small.secondary.state-text-button {
+  top: 139px;
+}
+
+.button-main.size-large.secondary.state-disabled {
+  top: 689px;
+}
+
+.button-main.size-default.secondary.state-outline {
+  top: 341px;
+}
+
+.button-main.state-outline.primary.size-small {
+  top: 98px;
+}
+
+.button-main.size-large.primary.state-disabled {
+  top: 749px;
+}
+
+.button-main.secondary.state-text-button.size-large {
+  top: 749px;
+}
+
+.button-main.primary.state-text-button.size-large {
+  top: 809px;
+}
+
+.button-main.size-default.primary.state-outline {
+  top: 390px;
+}
+
+.button-main.size-default.secondary.state-disabled {
+  top: 390px;
+}
+
+.button-main.size-default.primary.state-disabled {
+  top: 439px;
+}
+
+.button-main.state-outline.secondary.size-small {
+  top: 57px;
+}
+
+.button-main.primary.size-small.state-disabled {
+  top: 139px;
+}
+
+.button-main.state-outline.primary.size-large {
+  top: 689px;
+}
+
+.button-main.secondary.size-small.state-disabled {
+  top: 98px;
+}
+
+.button-main.size-large .primary-button {
+  font-family: var(--16px-body-regular-font-family);
+  font-size: var(--16px-body-regular-font-size);
+  font-style: var(--16px-body-regular-font-style);
+  font-weight: var(--16px-body-regular-font-weight);
+  letter-spacing: var(--16px-body-regular-letter-spacing);
+  line-height: var(--16px-body-regular-line-height);
+  margin-top: -0.50px;
+}
+
+.button-main.state-disabled .primary-button {
+  color: var(--tokens-white);
+}
+
+.button-main.size-small .primary-button {
+  font-family: var(--14px-body-m-regular-font-family);
+  font-size: var(--14px-body-m-regular-font-size);
+  font-style: var(--14px-body-m-regular-font-style);
+  font-weight: var(--14px-body-m-regular-font-weight);
+  letter-spacing: var(--14px-body-m-regular-letter-spacing);
+  line-height: var(--14px-body-m-regular-line-height);
+  margin-top: -1.00px;
+}
+
+.button-main.state-hover .primary-button {
+  color: var(--tokens-white);
+}
+
+.button-main.size-default .primary-button {
+  font-family: var(--14px-body-m-regular-font-family);
+  font-size: var(--14px-body-m-regular-font-size);
+  font-style: var(--14px-body-m-regular-font-style);
+  font-weight: var(--14px-body-m-regular-font-weight);
+  letter-spacing: var(--14px-body-m-regular-letter-spacing);
+  line-height: var(--14px-body-m-regular-line-height);
+  margin-top: -1.00px;
+}
+
+.button-main.state-default .primary-button {
+  color: var(--tokens-white);
+}
+
+.button-main.state-text-button .primary-button {
+  color: var(--tokens-white);
+}
+
+.button-main.state-outline.primary .primary-button {
+  color: var(--tokens-primary-button);
+}
+
+.button-main.state-outline.secondary .primary-button {
+  color: var(--tokens-secondary-button);
+}
+
+.button-main.secondary .primary-button-2 {
+  color: var(--tokens-dark-text);
+}
+
+.button-main.size-large .primary-button-2 {
+  font-family: var(--16px-body-regular-font-family);
+  font-size: var(--16px-body-regular-font-size);
+  font-style: var(--16px-body-regular-font-style);
+  font-weight: var(--16px-body-regular-font-weight);
+  letter-spacing: var(--16px-body-regular-letter-spacing);
+  line-height: var(--16px-body-regular-line-height);
+}
+
+.button-main.primary .primary-button-2 {
+  color: var(--tokens-primary-button);
+}
+
+.button-main.size-small .primary-button-2 {
+  font-family: var(--14px-body-m-regular-font-family);
+  font-size: var(--14px-body-m-regular-font-size);
+  font-style: var(--14px-body-m-regular-font-style);
+  font-weight: var(--14px-body-m-regular-font-weight);
+  letter-spacing: var(--14px-body-m-regular-letter-spacing);
+  line-height: var(--14px-body-m-regular-line-height);
+}
+
+.button-main.size-default .primary-button-2 {
+  font-family: var(--14px-body-m-regular-font-family);
+  font-size: var(--14px-body-m-regular-font-size);
+  font-style: var(--14px-body-m-regular-font-style);
+  font-weight: var(--14px-body-m-regular-font-weight);
+  letter-spacing: var(--14px-body-m-regular-letter-spacing);
+  line-height: var(--14px-body-m-regular-line-height);
+}

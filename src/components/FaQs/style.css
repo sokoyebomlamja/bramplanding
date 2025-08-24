@@ -1,0 +1,98 @@
+.FA-qs {
+  background-color: var(--tokens-white);
+  border: 0.5px solid;
+  border-color: var(--tokens-stroke);
+  border-radius: 16px;
+  box-shadow: var(--tiny-shadow);
+  display: flex;
+  left: 17px;
+  padding: 24px 16px;
+  position: relative;
+  width: 1312px;
+}
+
+.FA-qs .what-is-omnix {
+  color: var(--tokens-dark-text);
+  font-family: var(--18px-body-l-semi-bold-font-family);
+  font-size: var(--18px-body-l-semi-bold-font-size);
+  font-style: var(--18px-body-l-semi-bold-font-style);
+  font-weight: var(--18px-body-l-semi-bold-font-weight);
+  letter-spacing: var(--18px-body-l-semi-bold-letter-spacing);
+  line-height: var(--18px-body-l-semi-bold-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.FA-qs .icons-2 {
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+}
+
+.FA-qs .frame-16 {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.FA-qs .what-is-omnix-2 {
+  color: var(--tokens-primary-hover);
+  font-family: var(--18px-body-l-semi-bold-font-family);
+  font-size: var(--18px-body-l-semi-bold-font-size);
+  font-style: var(--18px-body-l-semi-bold-font-style);
+  font-weight: var(--18px-body-l-semi-bold-font-weight);
+  letter-spacing: var(--18px-body-l-semi-bold-letter-spacing);
+  line-height: var(--18px-body-l-semi-bold-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.FA-qs .minus {
+  aspect-ratio: 1;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.FA-qs .omnix-is-an-advanced-wrapper {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 408px;
+  justify-content: space-around;
+  position: relative;
+  width: 100%;
+}
+
+.FA-qs .omnix-is-an-advanced {
+  color: var(--tokens-dark-text);
+  flex: 1;
+  font-family: var(--16px-body-regular-font-family);
+  font-size: var(--16px-body-regular-font-size);
+  font-style: var(--16px-body-regular-font-style);
+  font-weight: var(--16px-body-regular-font-weight);
+  letter-spacing: var(--16px-body-regular-letter-spacing);
+  line-height: var(--16px-body-regular-line-height);
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.FA-qs.open {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 24px;
+  top: 140px;
+}
+
+.FA-qs.closed {
+  align-items: flex-end;
+  justify-content: space-between;
+  top: 16px;
+}

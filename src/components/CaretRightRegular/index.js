@@ -1,0 +1,1 @@
+export { CaretRightRegular } from "./CaretRightRegular";

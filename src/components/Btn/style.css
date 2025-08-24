@@ -1,0 +1,81 @@
+.btn {
+  height: 62px;
+  position: relative;
+  top: 16px;
+  width: 198px;
+}
+
+.btn .div {
+  align-items: center;
+  background-color: var(--tokens-primary-button);
+  border: 4px solid;
+  border-color: #000000;
+  border-radius: 400px;
+  display: inline-flex;
+  gap: 8px;
+  height: 56px;
+  justify-content: center;
+  padding: 12px 40px;
+  position: relative;
+}
+
+.btn .frame {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.btn .download-on-the {
+  color: var(--tokens-white);
+  font-family: var(--10px-body-XS-regular-font-family);
+  font-size: var(--10px-body-XS-regular-font-size);
+  font-style: var(--10px-body-XS-regular-font-style);
+  font-weight: var(--10px-body-XS-regular-font-weight);
+  letter-spacing: var(--10px-body-XS-regular-letter-spacing);
+  line-height: var(--10px-body-XS-regular-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.btn .app-store {
+  color: var(--tokens-white);
+  font-family: var(--16px-body-regular-font-family);
+  font-size: var(--16px-body-regular-font-size);
+  font-style: var(--16px-body-regular-font-style);
+  font-weight: var(--16px-body-regular-font-weight);
+  letter-spacing: var(--16px-body-regular-letter-spacing);
+  line-height: var(--16px-body-regular-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.btn .i-OS-instance {
+  height: 32px !important;
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+  width: 32px !important;
+}
+
+.btn.hover {
+  left: 240px;
+  overflow: hidden;
+}
+
+.btn.default {
+  left: 16px;
+}
+
+.btn.hover .div {
+  top: 6px;
+}
+
+.btn.default .div {
+  box-shadow: 0px 6px 0px #000000;
+}

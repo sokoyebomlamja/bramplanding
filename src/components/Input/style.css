@@ -1,0 +1,165 @@
+.input {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  left: 16px;
+  position: relative;
+}
+
+.input .frame-11 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  padding: 0px 8px;
+  position: relative;
+  width: 100%;
+}
+
+.input .category-name {
+  color: var(--tokens-dark-text);
+  font-family: var(--14px-body-m-regular-font-family);
+  font-size: var(--14px-body-m-regular-font-size);
+  font-style: var(--14px-body-m-regular-font-style);
+  font-weight: var(--14px-body-m-regular-font-weight);
+  letter-spacing: var(--14px-body-m-regular-letter-spacing);
+  line-height: var(--14px-body-m-regular-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.input .icons-instance {
+  background-image: url(../../../static/img/asterics.png) !important;
+  left: unset !important;
+  top: unset !important;
+}
+
+.input .input-field-box {
+  align-items: center;
+  align-self: stretch;
+  border: 0.5px solid;
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  overflow: hidden;
+  padding: 16px 12px;
+  position: relative;
+  width: 100%;
+}
+
+.input .frame-12 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 4px;
+  position: relative;
+}
+
+.input .text-wrapper-42 {
+  color: var(--tokens-dark-text);
+  font-family: var(--16px-body-regular-font-family);
+  font-size: var(--16px-body-regular-font-size);
+  font-style: var(--16px-body-regular-font-style);
+  font-weight: var(--16px-body-regular-font-weight);
+  letter-spacing: var(--16px-body-regular-letter-spacing);
+  line-height: var(--16px-body-regular-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.input .text-wrapper-43 {
+  color: var(--tokens-disabled-button);
+  font-family: var(--16px-body-regular-font-family);
+  font-size: var(--16px-body-regular-font-size);
+  font-style: var(--16px-body-regular-font-style);
+  font-weight: var(--16px-body-regular-font-weight);
+  letter-spacing: var(--16px-body-regular-letter-spacing);
+  line-height: var(--16px-body-regular-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.input .frame-13 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 4px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.input .caret-down-instance {
+  height: 16px !important;
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+  width: 16px !important;
+}
+
+.input .frame-14 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  padding: 0px 8px;
+  position: relative;
+  width: 100%;
+}
+
+.input .your-first-name {
+  color: var(--tokens-dark-text);
+  font-family: var(--12px-body-s-regular-font-family);
+  font-size: var(--12px-body-s-regular-font-size);
+  font-style: var(--12px-body-s-regular-font-style);
+  font-weight: var(--12px-body-s-regular-font-weight);
+  letter-spacing: var(--12px-body-s-regular-letter-spacing);
+  line-height: var(--12px-body-s-regular-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.input .instance-node {
+  left: unset !important;
+  top: unset !important;
+}
+
+.input.state-1-active {
+  top: 130px;
+}
+
+.input.state-1-error {
+  top: 244px;
+}
+
+.input.state-1-default {
+  top: 16px;
+}
+
+.input.state-1-active .input-field-box {
+  background-color: #fbfdfc;
+  border-color: var(--tokens-primary-button);
+}
+
+.input.state-1-error .input-field-box {
+  background-color: var(--tokens-white);
+  border-color: var(--tokens-error);
+}
+
+.input.state-1-default .input-field-box {
+  background-color: var(--tokens-white);
+  border-color: var(--tokens-disabled-button);
+}

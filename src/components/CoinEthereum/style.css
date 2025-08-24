@@ -1,0 +1,44 @@
+.coin-ethereum {
+  aspect-ratio: 1;
+  height: 120px;
+  left: 10595px;
+  position: relative;
+  top: 1505px;
+  width: 120px;
+}
+
+.coin-ethereum .overlap-group-14 {
+  height: 120px;
+  position: relative;
+}
+
+.coin-ethereum .coin-3 {
+  background-image: url(../../../static/img/coin-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 120px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 120px;
+}
+
+.coin-ethereum .img-10 {
+  height: 120px;
+  left: 0;
+  mix-blend-mode: overlay;
+  position: absolute;
+  top: 0;
+  width: 120px;
+}
+
+.coin-ethereum .icon-4 {
+  background-image: url(../../../static/img/icon.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 120px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 120px;
+}

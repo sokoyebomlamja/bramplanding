@@ -1,0 +1,1 @@
+export { CurrencyNgn } from "./CurrencyNgn";

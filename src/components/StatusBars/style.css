@@ -1,0 +1,50 @@
+.status-bars {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.status-bars .statusbar-ios {
+  left: unset !important;
+  top: unset !important;
+}
+
+.status-bars .theme-light-false-type-default {
+  left: unset !important;
+  top: unset !important;
+  width: unset !important;
+}
+
+.status-bars .theme-light-false-instance {
+  height: 13px !important;
+  left: 51px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 27px !important;
+}
+
+.status-bars.device-iphone-15-14-pro {
+  left: 40px;
+  padding: 6px 0px 0px;
+  top: 142px;
+}
+
+.status-bars.device-iphone-15-plus {
+  left: 22px;
+  padding: 2.71px 0px 0px;
+  top: 255px;
+}
+
+.status-bars.device-iphone-15 {
+  left: 41px;
+  padding: 3px 0px 0px;
+  top: 32px;
+}
+
+.status-bars.device-iphone-15-14-pro-max {
+  left: 20px;
+  padding: 6.17px 0px 0px;
+  top: 370px;
+}

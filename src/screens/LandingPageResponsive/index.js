@@ -1,0 +1,3 @@
+export { LandingPageResponsive } from "./LandingPageResponsive";
+
+

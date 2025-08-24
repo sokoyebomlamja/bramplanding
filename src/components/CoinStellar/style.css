@@ -1,0 +1,44 @@
+.coin-stellar {
+  aspect-ratio: 1;
+  height: 120px;
+  left: 10902px;
+  position: relative;
+  top: 1775px;
+  width: 120px;
+}
+
+.coin-stellar .overlap-group-13 {
+  height: 120px;
+  position: relative;
+}
+
+.coin-stellar .coin-2 {
+  background-image: url(../../../static/img/coin-3.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 120px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 120px;
+}
+
+.coin-stellar .img-9 {
+  height: 120px;
+  left: 0;
+  mix-blend-mode: overlay;
+  position: absolute;
+  top: 0;
+  width: 120px;
+}
+
+.coin-stellar .icon-3 {
+  background-image: url(../../../static/img/icon-3.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 120px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 120px;
+}

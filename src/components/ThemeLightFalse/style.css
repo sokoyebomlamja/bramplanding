@@ -1,0 +1,39 @@
+.theme-light-false {
+  height: 47px;
+  left: 10px;
+  position: relative;
+  top: 20px;
+  width: 390px;
+}
+
+.theme-light-false .left-side {
+  height: 21px;
+  left: 27px;
+  position: absolute;
+  top: 14px;
+  width: 54px;
+}
+
+.theme-light-false .right-side {
+  height: 13px;
+  left: 286px;
+  position: absolute;
+  top: 19px;
+  width: 78px;
+}
+
+.theme-light-false .icon-mobile-signal {
+  height: 12px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.theme-light-false .wifi {
+  height: 12px;
+  left: 26px;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}

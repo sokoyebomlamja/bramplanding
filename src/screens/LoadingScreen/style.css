@@ -1,0 +1,75 @@
+.loading-screen {
+  background-color: var(--tokens-primary-button);
+  display: block;
+  height: 852px;
+  width: 1440px;
+}
+
+.loading-screen .frame-183 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 32px;
+  left: 614px;
+  position: relative;
+  top: 381px;
+}
+
+.loading-screen .logo-21 {
+  aspect-ratio: 4.44 !important;
+  display: flex !important;
+  gap: 12.09px !important;
+  height: 48px !important;
+  left: unset !important;
+  top: unset !important;
+  width: 213px !important;
+}
+
+.loading-screen .logo-22 {
+  border-radius: 5.69px !important;
+  gap: 11.38px !important;
+  height: 48.37px !important;
+  margin-bottom: -0.18px !important;
+  margin-top: -0.18px !important;
+  padding: 5.69px !important;
+  width: 48.37px !important;
+}
+
+.loading-screen .logo-23 {
+  height: 25.09px !important;
+  width: 31.59px !important;
+}
+
+.loading-screen .logo-24 {
+  font-size: 48.4px !important;
+  letter-spacing: 1.45px !important;
+  line-height: 48.4px !important;
+  margin-right: -1.46px !important;
+  margin-top: -1.51px !important;
+}
+
+.loading-screen .frame-184 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.loading-screen .rectangle-33 {
+  background-color: var(--tokens-white-duplicate);
+  flex: 1;
+  flex-grow: 1;
+  height: 10px;
+  position: relative;
+}
+
+.loading-screen .rectangle-34 {
+  background-color: #cfd1d380;
+  flex: 1;
+  flex-grow: 1;
+  height: 10px;
+  position: relative;
+}

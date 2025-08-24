@@ -1,0 +1,92 @@
+.home-indicator {
+  height: 21px;
+  position: relative;
+}
+
+.home-indicator .div-2 {
+  border-radius: 100px;
+  height: 5px;
+  position: relative;
+  top: 8px;
+  width: 134px;
+}
+
+.home-indicator.iphone-15 {
+  left: 40px;
+  width: 390px;
+}
+
+.home-indicator.iphone-15-14-plus-max {
+  left: 21px;
+  width: 428px;
+}
+
+.home-indicator.iphone-15-14-pro-max {
+  left: 20px;
+  width: 430px;
+}
+
+.home-indicator.iphone-15-14-pro {
+  left: 38px;
+  width: 393px;
+}
+
+.home-indicator.theme-dark.iphone-15-14-pro {
+  top: 179px;
+}
+
+.home-indicator.iphone-15-14-pro-max.theme-light {
+  top: 391px;
+}
+
+.home-indicator.iphone-15-14-plus-max.theme-light {
+  top: 232px;
+}
+
+.home-indicator.theme-dark.iphone-15 {
+  top: 73px;
+}
+
+.home-indicator.theme-light.iphone-15 {
+  top: 20px;
+}
+
+.home-indicator.theme-dark.iphone-15-14-plus-max {
+  top: 285px;
+}
+
+.home-indicator.iphone-15-14-pro.theme-light {
+  top: 126px;
+}
+
+.home-indicator.theme-dark.iphone-15-14-pro-max {
+  top: 338px;
+}
+
+.home-indicator.iphone-15 .div-2 {
+  left: 128px;
+}
+
+.home-indicator.theme-light .div-2 {
+  background-color: #000000;
+}
+
+.home-indicator.iphone-15-14-plus-max .div-2 {
+  left: 147px;
+}
+
+.home-indicator.iphone-15-14-pro-max .div-2 {
+  left: 148px;
+}
+
+.home-indicator.theme-dark .div-2 {
+  background-color: #ffffff;
+}
+
+.home-indicator.theme-dark.iphone-15-14-pro .div-2 {
+  left: 131px;
+}
+
+.home-indicator.iphone-15-14-pro.theme-light .div-2 {
+  left: 130px;
+}

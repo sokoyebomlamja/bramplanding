@@ -1,0 +1,44 @@
+.coin-cardano {
+  aspect-ratio: 1;
+  height: 120px;
+  left: 11038px;
+  position: relative;
+  top: 1381px;
+  width: 120px;
+}
+
+.coin-cardano .overlap-group-11 {
+  height: 120px;
+  position: relative;
+}
+
+.coin-cardano .coin {
+  background-image: url(../../../static/img/coin-4.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 120px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 120px;
+}
+
+.coin-cardano .img-7 {
+  height: 120px;
+  left: 0;
+  mix-blend-mode: overlay;
+  position: absolute;
+  top: 0;
+  width: 120px;
+}
+
+.coin-cardano .icon-mask-wrapper {
+  background-image: url(../../../static/img/icon-4.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 120px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 120px;
+}

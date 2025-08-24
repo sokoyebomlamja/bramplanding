@@ -1,0 +1,49 @@
+.FAB {
+  align-items: center;
+  aspect-ratio: 1;
+  background-color: var(--tokens-primary-button);
+  border: 0.2px solid;
+  border-radius: 50px;
+  box-shadow: 0px 1px 2px #0000001a;
+  display: flex;
+  gap: 15px;
+  height: 56px;
+  justify-content: center;
+  padding: 8px;
+  position: relative;
+  top: 16px;
+  width: 56px;
+}
+
+.FAB .rectangle-21 {
+  background-color: #04080b4c;
+  height: 56px;
+  left: calc(50.00% - 28px);
+  position: absolute;
+  top: 0;
+  width: 56px;
+}
+
+.FAB .vector-25 {
+  aspect-ratio: 1.25;
+  height: 20.44px;
+  position: relative;
+  width: 25.8px;
+}
+
+.FAB .swap-instance {
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+}
+
+.FAB.property-1-swap {
+  border-color: var(--tokens-white);
+  left: 94px;
+}
+
+.FAB.property-1-ramp {
+  border-color: var(--tokens-stroke);
+  left: 16px;
+  overflow: hidden;
+}

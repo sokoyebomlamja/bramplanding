@@ -1,0 +1,627 @@
+.concrete-component-node.icons-import {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.concrete-component-node.icons-activity {
+  position: relative;
+}
+
+.concrete-component-node .line {
+  align-self: stretch;
+  height: 1px;
+  margin-top: -1.00px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.concrete-component-node .line-2 {
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 10px;
+}
+
+.concrete-component-node .line-3 {
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 8px;
+}
+
+.concrete-component-node .line-4 {
+  height: 16px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.concrete-component-node .line-5 {
+  height: 16px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.concrete-component-node .overlap-group-15 {
+  height: 25px;
+  position: relative;
+}
+
+.concrete-component-node .vector-27 {
+  height: 22px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 22px;
+}
+
+.concrete-component-node .vector-28 {
+  height: 23px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 22px;
+}
+
+.concrete-component-node .vector-29 {
+  height: 9px;
+  left: 16px;
+  position: absolute;
+  top: 9px;
+  width: 2px;
+}
+
+.concrete-component-node .vector-30 {
+  height: 5px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+
+.concrete-component-node .vector-31 {
+  height: 3px;
+  left: 12px;
+  position: absolute;
+  top: 2px;
+  width: 3px;
+}
+
+.concrete-component-node .vector-32 {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 16px;
+  width: 6px;
+}
+
+.concrete-component-node .vector-33 {
+  height: 3px;
+  left: 2px;
+  position: absolute;
+  top: 16px;
+  width: 3px;
+}
+
+.concrete-component-node.icons-0-ellipse {
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-factory {
+  aspect-ratio: 1;
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-chevron-left {
+  aspect-ratio: 1;
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-chevron-down {
+  aspect-ratio: 1;
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-emoji-waving-hand {
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-filter {
+  aspect-ratio: 1;
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-reports {
+  height: 16px;
+  width: 16px;
+}
+
+.concrete-component-node.icons-0-activity {
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-asterics {
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-date {
+  aspect-ratio: 1;
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-drag {
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-notification {
+  aspect-ratio: 1;
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-delete {
+  aspect-ratio: 1;
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-dollar {
+  height: 18px;
+  width: 18px;
+}
+
+.concrete-component-node.icons-0-assets {
+  height: 18px;
+  width: 18px;
+}
+
+.concrete-component-node.icons-0-support {
+  height: 16px;
+  width: 16px;
+}
+
+.concrete-component-node.icons-0-menu {
+  aspect-ratio: 1;
+  height: 18px;
+  width: 18px;
+}
+
+.concrete-component-node.icons-0-filter-2 {
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-info {
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-person {
+  aspect-ratio: 1;
+  height: 18px;
+  width: 18px;
+}
+
+.concrete-component-node.icons-0-globe {
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-google {
+  height: 16px;
+  width: 16px;
+}
+
+.concrete-component-node.icons-0-cancel {
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-chevron-up {
+  aspect-ratio: 1;
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-good {
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-arrow-right {
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-light {
+  height: 20px;
+  width: 20px;
+}
+
+.concrete-component-node.icons-0-naira {
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-dark {
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-export {
+  aspect-ratio: 1;
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-columns {
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-settings {
+  height: 16px;
+  width: 16px;
+}
+
+.concrete-component-node.icons-0-link {
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-add {
+  aspect-ratio: 1;
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-upgrade {
+  height: 16px;
+  width: 16px;
+}
+
+.concrete-component-node.icons-0-search {
+  aspect-ratio: 1;
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-chevron-right {
+  aspect-ratio: 1;
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-import {
+  aspect-ratio: 1;
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-dashboard {
+  aspect-ratio: 1;
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-inventory {
+  aspect-ratio: 1;
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-0-analytics {
+  height: 16px;
+  width: 16px;
+}
+
+.concrete-component-node.icons-0-community {
+  height: 16px;
+  width: 16px;
+}
+
+.concrete-component-node.icons-0-edit {
+  aspect-ratio: 1;
+  height: 24px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-ellipse {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-factory {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-chevron-left {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-chevron-down {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-emoji-waving-hand {
+  height: 25px;
+  left: 242px;
+  top: 64px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-filter {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-reports {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-activity {
+  aspect-ratio: 1;
+  background-image: url(../../../static/img/activity.png);
+  background-size: 100% 100%;
+  height: 18px;
+  left: 154px;
+  top: 16px;
+  width: 18px;
+}
+
+.concrete-component-node.icons-1-asterics {
+  background-image: url(../../../static/img/asterics-1.png);
+  background-size: 100% 100%;
+  height: 10px;
+  left: 430px;
+  top: 16px;
+  width: 10px;
+}
+
+.concrete-component-node.icons-1-date {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-drag {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-notification {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-delete {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-dollar {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-assets {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-support {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-menu {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-filter-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  left: 504px;
+  top: 16px;
+  width: 12px;
+}
+
+.concrete-component-node.icons-1-info {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-person {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-globe {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-google {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-cancel {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-chevron-up {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-good {
+  aspect-ratio: 1;
+  background-image: url(../../../static/img/good.png);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 286px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-arrow-right {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-light {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-naira {
+  background-image: url(../../../static/img/currency-naira-ngn-1.png);
+  background-size: 100% 100%;
+  height: 16px;
+  left: 464px;
+  top: 16px;
+  width: 16px;
+}
+
+.concrete-component-node.icons-1-dark {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-export {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-columns {
+  aspect-ratio: 1;
+  border: 1px solid;
+  border-color: var(--tokens-dark-text-duplicate);
+  border-radius: 2px;
+  height: 16px;
+  left: 540px;
+  overflow: hidden;
+  top: 16px;
+  width: 16px;
+}
+
+.concrete-component-node.icons-1-settings {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-link {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-add {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-upgrade {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-search {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-chevron-right {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-import {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-dashboard {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-inventory {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-analytics {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-community {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}
+
+.concrete-component-node.icons-1-edit {
+  left: 154px;
+  top: 16px;
+  width: 24px;
+}

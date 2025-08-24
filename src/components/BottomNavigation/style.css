@@ -1,0 +1,166 @@
+.bottom-navigation {
+  align-items: center;
+  box-shadow: 0px -1px 2px #00000012;
+  display: flex;
+  gap: 4px;
+  height: 80px;
+  left: 16px;
+  padding: 0px 6px;
+  position: relative;
+  width: 393px;
+}
+
+.bottom-navigation .frame-2 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 6px;
+  position: relative;
+}
+
+.bottom-navigation .text-wrapper-2 {
+  align-self: stretch;
+  position: relative;
+  text-align: center;
+}
+
+.bottom-navigation .text-wrapper-3 {
+  font-family: var(--12px-body-s-light-font-family);
+  font-size: var(--12px-body-s-light-font-size);
+  font-style: var(--12px-body-s-light-font-style);
+  font-weight: var(--12px-body-s-light-font-weight);
+  letter-spacing: var(--12px-body-s-light-letter-spacing);
+  line-height: var(--12px-body-s-light-line-height);
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.bottom-navigation .text-wrapper-4 {
+  font-family: var(--12px-body-s-light-font-family);
+  font-size: var(--12px-body-s-light-font-size);
+  font-style: var(--12px-body-s-light-font-style);
+  font-weight: var(--12px-body-s-light-font-weight);
+  letter-spacing: var(--12px-body-s-light-letter-spacing);
+  line-height: var(--12px-body-s-light-line-height);
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.bottom-navigation .text-wrapper-5 {
+  font-family: var(--12px-body-s-light-font-family);
+  font-size: var(--12px-body-s-light-font-size);
+  font-style: var(--12px-body-s-light-font-style);
+  font-weight: var(--12px-body-s-light-font-weight);
+  letter-spacing: var(--12px-body-s-light-letter-spacing);
+  line-height: var(--12px-body-s-light-line-height);
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.bottom-navigation .text-wrapper-6 {
+  font-family: var(--12px-body-s-light-font-family);
+  font-size: var(--12px-body-s-light-font-size);
+  font-style: var(--12px-body-s-light-font-style);
+  font-weight: var(--12px-body-s-light-font-weight);
+  letter-spacing: var(--12px-body-s-light-letter-spacing);
+  line-height: var(--12px-body-s-light-line-height);
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.bottom-navigation.dark {
+  background-color: var(--tokens-dark-text);
+}
+
+.bottom-navigation.light {
+  background-color: var(--tokens-white);
+}
+
+.bottom-navigation.light.destination-home {
+  top: 16px;
+}
+
+.bottom-navigation.dark.destination-home {
+  top: 120px;
+}
+
+.bottom-navigation.dark.destination-wallet {
+  top: 328px;
+}
+
+.bottom-navigation.light.destination-wallet {
+  top: 224px;
+}
+
+.bottom-navigation.destination-wallet .text-wrapper-2 {
+  font-family: var(--12px-body-s-light-font-family);
+  font-size: var(--12px-body-s-light-font-size);
+  font-style: var(--12px-body-s-light-font-style);
+  font-weight: var(--12px-body-s-light-font-weight);
+  letter-spacing: var(--12px-body-s-light-letter-spacing);
+  line-height: var(--12px-body-s-light-line-height);
+}
+
+.bottom-navigation.destination-home .text-wrapper-2 {
+  color: var(--tokens-primary-button);
+  font-family: var(--12px-body-s-medium-font-family);
+  font-size: var(--12px-body-s-medium-font-size);
+  font-style: var(--12px-body-s-medium-font-style);
+  font-weight: var(--12px-body-s-medium-font-weight);
+  letter-spacing: var(--12px-body-s-medium-letter-spacing);
+  line-height: var(--12px-body-s-medium-line-height);
+}
+
+.bottom-navigation.dark.destination-wallet .text-wrapper-2 {
+  color: var(--tokens-white);
+}
+
+.bottom-navigation.light.destination-wallet .text-wrapper-2 {
+  color: var(--tokens-dark-text);
+}
+
+.bottom-navigation.dark .text-wrapper-3 {
+  color: var(--tokens-white);
+}
+
+.bottom-navigation.light .text-wrapper-3 {
+  color: var(--tokens-dark-text);
+}
+
+.bottom-navigation.destination-wallet .text-wrapper-4 {
+  color: var(--tokens-primary-button);
+}
+
+.bottom-navigation.light.destination-home .text-wrapper-4 {
+  color: var(--tokens-dark-text);
+}
+
+.bottom-navigation.dark.destination-home .text-wrapper-4 {
+  color: var(--tokens-white);
+}
+
+.bottom-navigation.dark .text-wrapper-5 {
+  color: var(--tokens-white);
+}
+
+.bottom-navigation.light .text-wrapper-5 {
+  color: var(--tokens-dark-text);
+}
+
+.bottom-navigation.dark .text-wrapper-6 {
+  color: var(--tokens-white);
+}
+
+.bottom-navigation.light .text-wrapper-6 {
+  color: var(--tokens-dark-text);
+}

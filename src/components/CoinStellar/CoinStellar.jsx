@@ -1,0 +1,23 @@
+/*
+We're constantly improving the code you see. 
+Please share your feedback here: https://form.asana.com/?k=uvp-HPgd3_hyoXRBw1IcNg&d=1152665201300829
+*/
+
+import React from "react";
+import "./style.css";
+
+export const CoinStellar = ({ className }) => {
+  return (
+    <div className={`coin-stellar ${className}`}>
+      <div className="overlap-group-13">
+        <div className="coin-2">
+          <img className="img-9" alt="Coin mask" src="/img/coin-mask-4.png" />
+        </div>
+
+        <div className="icon-3">
+          <img className="img-9" alt="Icon mask" src="/img/icon-mask-4.png" />
+        </div>
+      </div>
+    </div>
+  );
+};

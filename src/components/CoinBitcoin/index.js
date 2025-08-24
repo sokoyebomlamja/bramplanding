@@ -1,0 +1,1 @@
+export { CoinBitcoin } from "./CoinBitcoin";

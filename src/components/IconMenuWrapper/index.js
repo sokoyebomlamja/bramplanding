@@ -1,0 +1,1 @@
+export { IconMenuWrapper } from "./IconMenuWrapper";

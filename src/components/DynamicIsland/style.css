@@ -1,0 +1,6302 @@
+.dynamic-island {
+  width: 125px;
+}
+
+.dynamic-island .lock-2 {
+  position: absolute;
+}
+
+.dynamic-island .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 22px;
+}
+
+.dynamic-island .ellipse {
+  height: 50px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 50px;
+}
+
+.dynamic-island .phone-circle-fill {
+  position: absolute;
+}
+
+.dynamic-island .group {
+  height: 45px;
+  position: relative;
+}
+
+.dynamic-island .vector-2 {
+  height: 45px;
+  left: 142px;
+  position: absolute;
+  top: 655px;
+  width: 45px;
+}
+
+.dynamic-island .vector-wrapper {
+  background-image: url(../../../static/img/vector-15.png);
+  background-size: 100% 100%;
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.dynamic-island .vector-3 {
+  height: 21px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 21px;
+}
+
+.dynamic-island .time-2 {
+  height: 10px;
+  left: 49px;
+  position: absolute;
+  top: 63px;
+  width: 234px;
+}
+
+.dynamic-island .text-wrapper-8 {
+  color: #797979;
+  font-family: "SF Pro-Regular", Helvetica;
+  font-size: 8.3px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.dynamic-island .text-wrapper-9 {
+  color: #797979;
+  font-family: "SF Pro-Regular", Helvetica;
+  font-size: 8.3px;
+  font-weight: 400;
+  left: 51px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.dynamic-island .text-wrapper-10 {
+  color: #797979;
+  font-family: "SF Pro-Regular", Helvetica;
+  font-size: 8.3px;
+  font-weight: 400;
+  left: 102px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.dynamic-island .text-wrapper-11 {
+  color: #797979;
+  font-family: "SF Pro-Regular", Helvetica;
+  font-size: 8.3px;
+  font-weight: 400;
+  left: 152px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.dynamic-island .text-wrapper-12 {
+  color: #797979;
+  font-family: "SF Pro-Regular", Helvetica;
+  font-size: 8.3px;
+  font-weight: 400;
+  left: 203px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.dynamic-island .wind-direction {
+  height: 8px;
+  left: 5px;
+  position: absolute;
+  top: 53px;
+  width: 287px;
+}
+
+.dynamic-island .separators {
+  height: 71px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 296px;
+}
+
+.dynamic-island .overlap {
+  height: 72px;
+  position: relative;
+}
+
+.dynamic-island .vector-4 {
+  height: 72px;
+  left: 45px;
+  position: absolute;
+  top: 0;
+  width: 205px;
+}
+
+.dynamic-island .vector-5 {
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 296px;
+}
+
+.dynamic-island .wind-speeds {
+  height: 42px;
+  left: 2px;
+  position: absolute;
+  top: 8px;
+  width: 292px;
+}
+
+.dynamic-island .rain-precentage {
+  height: 22px;
+  left: 2px;
+  position: absolute;
+  top: 29px;
+  width: 75px;
+}
+
+.dynamic-island .rectangle {
+  background: linear-gradient(
+    180deg,
+    rgba(60, 62, 67, 1) 0%,
+    rgba(20, 21, 22, 1) 100%
+  );
+  border-radius: 83.29px;
+  height: 14px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 11px;
+}
+
+.dynamic-island .rectangle-2 {
+  background: linear-gradient(
+    180deg,
+    rgba(60, 62, 67, 1) 0%,
+    rgba(20, 21, 22, 1) 100%
+  );
+  border-radius: 83.29px;
+  height: 18px;
+  left: 12px;
+  position: absolute;
+  top: 3px;
+  width: 11px;
+}
+
+.dynamic-island .rectangle-3 {
+  background: linear-gradient(
+    180deg,
+    rgba(60, 62, 67, 1) 0%,
+    rgba(20, 21, 22, 1) 100%
+  );
+  border-radius: 83.29px;
+  height: 19px;
+  left: 25px;
+  position: absolute;
+  top: 2px;
+  width: 11px;
+}
+
+.dynamic-island .rectangle-4 {
+  background: linear-gradient(
+    180deg,
+    rgba(60, 62, 67, 1) 0%,
+    rgba(20, 21, 22, 1) 100%
+  );
+  border-radius: 83.29px;
+  height: 22px;
+  left: 38px;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.dynamic-island .rectangle-5 {
+  background: linear-gradient(
+    180deg,
+    rgba(60, 62, 67, 1) 0%,
+    rgba(20, 21, 22, 1) 100%
+  );
+  border-radius: 83.29px;
+  height: 19px;
+  left: 52px;
+  position: absolute;
+  top: 2px;
+  width: 11px;
+}
+
+.dynamic-island .rectangle-6 {
+  background: linear-gradient(
+    180deg,
+    rgba(60, 62, 67, 1) 0%,
+    rgba(20, 21, 22, 1) 100%
+  );
+  border-radius: 83.29px;
+  height: 17px;
+  left: 64px;
+  position: absolute;
+  top: 5px;
+  width: 11px;
+}
+
+.dynamic-island .rain-precentage-day {
+  height: 29px;
+  left: 78px;
+  position: absolute;
+  top: 21px;
+  width: 216px;
+}
+
+.dynamic-island .precentages-speed {
+  position: absolute;
+}
+
+.dynamic-island .text-wrapper-13 {
+  color: #808080;
+  font-family: "SF Pro Rounded-Regular", Helvetica;
+  font-size: 8.3px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.25px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.dynamic-island .text-wrapper-14 {
+  color: #808080;
+  font-family: "SF Pro Rounded-Regular", Helvetica;
+  font-size: 8.3px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.25px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+}
+
+.dynamic-island .text-wrapper-15 {
+  color: #808080;
+  font-family: "SF Pro Rounded-Regular", Helvetica;
+  font-size: 8.3px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.25px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+}
+
+.dynamic-island .text-wrapper-16 {
+  color: #808080;
+  font-family: "SF Pro Rounded-Regular", Helvetica;
+  font-size: 8.3px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.25px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 46px;
+}
+
+.dynamic-island .vector-6 {
+  height: 45px;
+  left: 198px;
+  position: absolute;
+  top: 655px;
+  width: 45px;
+}
+
+.dynamic-island .overlap-group-2 {
+  background-image: url(../../../static/img/vector-18.png);
+  background-size: 100% 100%;
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 45px;
+}
+
+.dynamic-island .vector-7 {
+  height: 10px;
+  left: 10px;
+  position: absolute;
+  top: 17px;
+  width: 25px;
+}
+
+.dynamic-island .compass {
+  position: absolute;
+}
+
+.dynamic-island .overlap-group-3 {
+  height: 25px;
+  left: 55px;
+  position: absolute;
+  top: -1px;
+  width: 25px;
+}
+
+.dynamic-island .rectangle-7 {
+  border: 2.5px solid;
+  border-color: #212121;
+  border-radius: 83.29px;
+  height: 23px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 23px;
+}
+
+.dynamic-island .vector-8 {
+  height: 5px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.dynamic-island .vector-9 {
+  height: 5px;
+  left: 12px;
+  position: absolute;
+  top: 20px;
+  width: 2px;
+}
+
+.dynamic-island .vector-10 {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 12px;
+  width: 5px;
+}
+
+.dynamic-island .vector-11 {
+  height: 2px;
+  left: 19px;
+  position: absolute;
+  top: 12px;
+  width: 5px;
+}
+
+.dynamic-island .vector-12 {
+  height: 22px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 21px;
+}
+
+.dynamic-island .location-icon {
+  height: 11px;
+  left: 7px;
+  overflow: hidden;
+  position: absolute;
+  top: 7px;
+  transform: rotate(180deg);
+  width: 11px;
+}
+
+.dynamic-island .group-2 {
+  height: 11px;
+  position: relative;
+}
+
+.dynamic-island .vector-13 {
+  height: 11px;
+  left: 123px;
+  position: absolute;
+  top: 640px;
+  width: 11px;
+}
+
+.dynamic-island .vector-14 {
+  height: 11px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.dynamic-island .text-wrapper-17 {
+  color: #ffffff;
+  font-family: "SF Pro-Semibold", Helvetica;
+  font-size: 18.3px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.25px;
+  line-height: normal;
+  position: absolute;
+  top: 2px;
+}
+
+.dynamic-island .overlap-2 {
+  height: 25px;
+  position: relative;
+  width: 40px;
+}
+
+.dynamic-island .text-wrapper-18 {
+  color: #ffffff;
+  font-family: "SF Pro Text-Semibold", Helvetica;
+  font-size: 14.3px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.dynamic-island .text-wrapper-19 {
+  color: #ffffff;
+  font-family: "SF Pro Text-Semibold", Helvetica;
+  font-size: 7.6px;
+  font-weight: 400;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.6;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dynamic-island .ellipse-2 {
+  height: 44.27px;
+  object-fit: cover;
+  position: relative;
+  width: 44.27px;
+}
+
+.dynamic-island .frame-3 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-between;
+  position: relative;
+}
+
+.dynamic-island .frame-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 6.41px;
+  position: relative;
+}
+
+.dynamic-island .element-photo {
+  color: #ffffff;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.24px;
+  line-height: 10.5px;
+  margin-top: -0.58px;
+  position: relative;
+  width: 109px;
+}
+
+.dynamic-island .text-wrapper-20 {
+  color: #888888;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: -0.24px;
+  line-height: 10.5px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dynamic-island .text-wrapper-21 {
+  color: #777677;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: -0.24px;
+  line-height: 10.5px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dynamic-island .camera {
+  background-color: #111111;
+  border-radius: 100px;
+  height: 13px;
+  left: 12px;
+  position: relative;
+  top: 12px;
+  width: 13px;
+}
+
+.dynamic-island .div-wrapper-2 {
+  background-color: #ffffff;
+  border-radius: 25.86px;
+  height: 51.73px;
+  position: relative;
+  width: 51.73px;
+}
+
+.dynamic-island .text-wrapper-22 {
+  color: #000000;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 23.3px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: -0.30px;
+  line-height: 13.1px;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.dynamic-island .text-wrapper-23 {
+  color: #000000;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 23.3px;
+  font-weight: 400;
+  left: 14px;
+  letter-spacing: -0.30px;
+  line-height: 13.1px;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.dynamic-island .div-wrapper-3 {
+  background-color: #2a292d;
+  border-radius: 25.86px;
+  height: 51.73px;
+  position: relative;
+  width: 51.73px;
+}
+
+.dynamic-island .text-wrapper-24 {
+  color: #ffffff;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 23.3px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: -0.30px;
+  line-height: 13.1px;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.dynamic-island .text-wrapper-25 {
+  color: #ffffff;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 23.3px;
+  font-weight: 400;
+  left: 10px;
+  letter-spacing: -0.30px;
+  line-height: 13.1px;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.dynamic-island .cancel {
+  background-color: #ff3d33;
+  border-radius: 25.86px;
+  height: 51.73px;
+  position: relative;
+  width: 51.73px;
+}
+
+.dynamic-island .text-wrapper-26 {
+  color: #ffffff;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 23.3px;
+  font-weight: 400;
+  left: 11px;
+  letter-spacing: -0.30px;
+  line-height: 13.1px;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.dynamic-island .indo {
+  height: 25px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 84px;
+}
+
+.dynamic-island .overlap-3 {
+  height: 25px;
+  left: 25px;
+  position: absolute;
+  top: 0;
+  width: 53px;
+}
+
+.dynamic-island .text-wrapper-27 {
+  color: #ffffff;
+  font-family: "SF Pro-Medium", Helvetica;
+  font-size: 13.3px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: -0.25px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.dynamic-island .text-wrapper-28 {
+  color: #acacac;
+  font-family: "SF Pro-Light", Helvetica;
+  font-size: 11.7px;
+  font-weight: 300;
+  left: 17px;
+  letter-spacing: -0.25px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+}
+
+.dynamic-island .text-wrapper-29 {
+  color: #acacac;
+  font-family: "SF Pro-Light", Helvetica;
+  font-size: 8.3px;
+  font-weight: 300;
+  left: 0;
+  letter-spacing: -0.25px;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+}
+
+.dynamic-island .wind-icon {
+  height: 17px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 19px;
+}
+
+.dynamic-island .group-3 {
+  height: 17px;
+  position: relative;
+}
+
+.dynamic-island .vector-15 {
+  height: 17px;
+  left: 414px;
+  position: absolute;
+  top: 643px;
+  width: 19px;
+}
+
+.dynamic-island .vector-16 {
+  height: 17px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.dynamic-island .icon {
+  position: absolute;
+}
+
+.dynamic-island .overlap-group-4 {
+  position: relative;
+}
+
+.dynamic-island .ellipse-3 {
+  background-color: #2d81ff;
+  border-radius: 1.83px;
+  height: 4px;
+  left: 9px;
+  position: absolute;
+  top: 9px;
+  width: 4px;
+}
+
+.dynamic-island .ellipse-4 {
+  position: absolute;
+}
+
+.dynamic-island .ellipse-5 {
+  height: 15px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 16px;
+}
+
+.dynamic-island .ellipse-6 {
+  height: 21px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 22px;
+}
+
+.dynamic-island .overlap-group-5 {
+  border-radius: 37px;
+  height: 74px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 74px;
+}
+
+.dynamic-island .vector-17 {
+  height: 33px;
+  left: 20px;
+  position: absolute;
+  top: 23px;
+  width: 35px;
+}
+
+.dynamic-island .ellipse-7 {
+  border: 5.55px solid;
+  border-color: #43ff75;
+  border-radius: 37px;
+  height: 74px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 74px;
+}
+
+.dynamic-island .vector-18 {
+  height: 11px;
+  left: 6px;
+  position: absolute;
+  top: 5px;
+  width: 8px;
+}
+
+.dynamic-island .camera-sensors {
+  position: absolute;
+}
+
+.dynamic-island .truedepth-camera {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.dynamic-island .div-wrapper-4 {
+  height: 45px;
+}
+
+.dynamic-island .group-4 {
+  height: 44px;
+  left: 1px;
+  position: relative;
+  top: 1px;
+  width: 104px;
+}
+
+.dynamic-island .overlap-group-6 {
+  background-color: #3d2f18;
+  border-radius: 22.13px;
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 44px;
+}
+
+.dynamic-island .text-wrapper-30 {
+  color: #e58d40;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 14px;
+  letter-spacing: -0.25px;
+  line-height: 11.2px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.dynamic-island .overlap-4 {
+  background-color: #3f4039;
+  border-radius: 22.13px;
+  height: 44px;
+  left: 56px;
+  position: absolute;
+  top: 0;
+  width: 44px;
+}
+
+.dynamic-island .text-wrapper-31 {
+  color: #ffffff;
+  font-family: "SF Pro Text-Semibold", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 12px;
+  letter-spacing: -0.25px;
+  line-height: 11.2px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.dynamic-island .facetime-camera {
+  position: absolute;
+}
+
+.dynamic-island .element {
+  color: #e58d40;
+  font-family: "SF Pro Text-Semibold", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 40px;
+  letter-spacing: -0.41px;
+  line-height: 18px;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+}
+
+.dynamic-island .text-wrapper-32 {
+  color: #e58d40;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.41px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.dynamic-island .FT {
+  position: absolute;
+}
+
+.dynamic-island .ellipse-8 {
+  height: 36px;
+  left: 20px;
+  position: absolute;
+  top: -5px;
+  width: 29px;
+}
+
+.dynamic-island .element-2 {
+  position: absolute;
+}
+
+.dynamic-island .overlap-group-wrapper {
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 54px;
+}
+
+.dynamic-island .overlap-group-7 {
+  height: 56px;
+  position: relative;
+  width: 56px;
+}
+
+.dynamic-island .ellipse-9 {
+  background-color: #2d81ff;
+  border-radius: 4.5px;
+  height: 9px;
+  left: 23px;
+  position: absolute;
+  top: 23px;
+  width: 9px;
+}
+
+.dynamic-island .ellipse-10 {
+  height: 23px;
+  left: 15px;
+  position: absolute;
+  top: 15px;
+  width: 24px;
+}
+
+.dynamic-island .ellipse-11 {
+  height: 37px;
+  left: 8px;
+  position: absolute;
+  top: 7px;
+  width: 39px;
+}
+
+.dynamic-island .ellipse-12 {
+  height: 51px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 54px;
+}
+
+.dynamic-island .rectangle-8 {
+  height: 34px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 34px;
+}
+
+.dynamic-island .text {
+  height: 17px;
+  left: 60px;
+  position: absolute;
+  top: 38px;
+  width: 105px;
+}
+
+.dynamic-island .element-photo-2 {
+  color: #ffffff99;
+  font-family: "SF Pro Text-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  height: 14px;
+  left: 57px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.dynamic-island .text-wrapper-33 {
+  color: #ffffff;
+  font-family: "SF Pro Text-Semibold", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 17px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.dynamic-island .leading-wrapper {
+  height: 45px;
+  left: 234px;
+  position: absolute;
+  top: 20px;
+  width: 101px;
+}
+
+.dynamic-island .buttons {
+  height: 45px;
+  width: 101px;
+}
+
+.dynamic-island .text-wrapper-34 {
+  color: #e58d40;
+  font-family: "SF Pro Text-Semibold", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 10px;
+  letter-spacing: -0.25px;
+  line-height: 11.2px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.dynamic-island .alarm {
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 22px;
+  width: 36px;
+}
+
+.dynamic-island .group-5 {
+  height: 42px;
+  position: relative;
+}
+
+.dynamic-island .vector-19 {
+  height: 42px;
+  left: 429px;
+  position: absolute;
+  top: 652px;
+  width: 36px;
+}
+
+.dynamic-island .vector-20 {
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 36px;
+}
+
+.dynamic-island .text-wrapper-35 {
+  color: #f4ab42;
+  font-family: "SF Pro-Semibold", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 46px;
+  letter-spacing: -0.25px;
+  line-height: normal;
+  position: absolute;
+  top: 41px;
+  white-space: nowrap;
+}
+
+.dynamic-island .text-wrapper-36 {
+  color: #f4ab4299;
+  font-family: "SF Pro-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 108px;
+  letter-spacing: -0.25px;
+  line-height: normal;
+  position: absolute;
+  top: 45px;
+  white-space: nowrap;
+}
+
+.dynamic-island .download {
+  position: absolute;
+}
+
+.dynamic-island .ellipse-13 {
+  height: 15px;
+  left: 8px;
+  position: absolute;
+  top: -2px;
+  width: 12px;
+}
+
+.dynamic-island .truedepth-camera-2 {
+  background-color: var(--system-backgrounddark-baseprimary);
+  border-radius: 100px;
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island .camera-wrapper {
+  background-color: var(--system-backgrounddark-baseprimary);
+  border-radius: 100px;
+  height: 37px;
+  left: 88px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.dynamic-island .rectangle-9 {
+  background-color: #fee801;
+  border-radius: 50px;
+  height: 15px;
+  left: 5px;
+  position: absolute;
+  top: 4px;
+  width: 2px;
+}
+
+.dynamic-island .rectangle-10 {
+  background-color: #fee801;
+  border-radius: 50px;
+  height: 11px;
+  left: 12px;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+
+.dynamic-island .rectangle-11 {
+  background-color: #fee801;
+  border-radius: 50px;
+  height: 18px;
+  left: 16px;
+  position: absolute;
+  top: 2px;
+  width: 2px;
+}
+
+.dynamic-island .rectangle-12 {
+  background-color: #fee801;
+  border-radius: 50px;
+  height: 7px;
+  left: 19px;
+  position: absolute;
+  top: 7px;
+  width: 2px;
+}
+
+.dynamic-island .rectangle-13 {
+  background-color: #fee801;
+  border-radius: 50px;
+  height: 22px;
+  left: 8px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.dynamic-island .airpods-pro-left {
+  background-image: url(../../../static/img/ellipse-29-1.png);
+  background-size: 100% 100%;
+  height: 22px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 22px;
+}
+
+.dynamic-island .airpods-gen {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 22px;
+}
+
+.dynamic-island .camera-2 {
+  position: absolute;
+}
+
+.dynamic-island .truedepth-camera-3 {
+  left: 0;
+  position: absolute;
+}
+
+.dynamic-island .group-6 {
+  height: 21px;
+  left: 2px;
+  position: relative;
+  width: 18px;
+}
+
+.dynamic-island .vector-21 {
+  height: 21px;
+  left: 348px;
+  position: absolute;
+  top: 666px;
+  width: 18px;
+}
+
+.dynamic-island .vector-22 {
+  height: 21px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.dynamic-island .facetime-camera-2 {
+  position: absolute;
+  top: 0;
+}
+
+.dynamic-island .camera-3 {
+  position: relative;
+}
+
+.dynamic-island .text-wrapper-37 {
+  color: #4dcbfb;
+  font-family: "SF Pro Rounded-Bold", Helvetica;
+  font-size: 8px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: -0.30px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.dynamic-island .text-wrapper-38 {
+  color: #ffffff;
+  font-family: "SF Pro Rounded-Bold", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 2px;
+  letter-spacing: -0.30px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 8px;
+}
+
+.dynamic-island .cameras {
+  height: 37px;
+  position: relative;
+}
+
+.dynamic-island .music-playing {
+  height: 156px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 318px;
+}
+
+.dynamic-island .player-track-text {
+  height: 41px;
+  left: 82px;
+  position: absolute;
+  top: 12px;
+  width: 101px;
+}
+
+.dynamic-island .overlap-group-8 {
+  height: 41px;
+  position: relative;
+  top: -1px;
+  width: 48px;
+}
+
+.dynamic-island .music {
+  color: #ffffff;
+  font-family: "SF Pro Text-Semibold", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dynamic-island .text-wrapper-39 {
+  color: #ffffff99;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.dynamic-island .music-wave {
+  height: 24px;
+  left: 294px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.dynamic-island .rectangle-14 {
+  background-color: #fee801;
+  border-radius: 50px;
+  height: 6px;
+  left: 1px;
+  position: absolute;
+  top: 9px;
+  width: 2px;
+}
+
+.dynamic-island .rectangle-15 {
+  background-color: #fee801;
+  border-radius: 50px;
+  height: 16px;
+  left: 5px;
+  position: absolute;
+  top: 4px;
+  width: 2px;
+}
+
+.dynamic-island .rectangle-16 {
+  background-color: #fee801;
+  border-radius: 50px;
+  height: 12px;
+  left: 13px;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+
+.dynamic-island .rectangle-17 {
+  background-color: #fee801;
+  border-radius: 50px;
+  height: 20px;
+  left: 17px;
+  position: absolute;
+  top: 2px;
+  width: 2px;
+}
+
+.dynamic-island .rectangle-18 {
+  background-color: #fee801;
+  border-radius: 50px;
+  height: 8px;
+  left: 21px;
+  position: absolute;
+  top: 8px;
+  width: 2px;
+}
+
+.dynamic-island .rectangle-19 {
+  background-color: #fee801;
+  border-radius: 50px;
+  height: 24px;
+  left: 9px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.dynamic-island .controls {
+  height: 75px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 81px;
+  width: 318px;
+}
+
+.dynamic-island .pause {
+  height: 40px;
+  left: 142px;
+  position: absolute;
+  top: 35px;
+  width: 33px;
+}
+
+.dynamic-island .img-2 {
+  height: 30px;
+  left: 5px;
+  position: absolute;
+  top: 6px;
+  width: 23px;
+}
+
+.dynamic-island .back {
+  height: 40px;
+  left: 65px;
+  position: absolute;
+  top: 35px;
+  width: 39px;
+}
+
+.dynamic-island .img-3 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 35px;
+}
+
+.dynamic-island .next {
+  height: 40px;
+  left: 213px;
+  position: absolute;
+  top: 35px;
+  width: 39px;
+}
+
+.dynamic-island .img-4 {
+  height: 20px;
+  left: 3px;
+  position: absolute;
+  top: 10px;
+  width: 35px;
+}
+
+.dynamic-island .airplay {
+  height: 40px;
+  left: 286px;
+  position: absolute;
+  top: 35px;
+  width: 28px;
+}
+
+.dynamic-island .img-5 {
+  height: 23px;
+  left: 2px;
+  position: absolute;
+  top: 8px;
+  width: 23px;
+}
+
+.dynamic-island .song-bar {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 322px;
+}
+
+.dynamic-island .text-wrapper-40 {
+  color: #ffffff99;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dynamic-island .text-wrapper-41 {
+  color: #ffffff99;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 287px;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dynamic-island .bar {
+  background-color: #ffffff33;
+  border-radius: 24px;
+  height: 7px;
+  left: 35px;
+  overflow: hidden;
+  position: absolute;
+  top: 7px;
+  width: 242px;
+}
+
+.dynamic-island .rectangle-20 {
+  height: 7px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 120px;
+}
+
+.dynamic-island .song-thumbnail {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 121, 121, 1) 0%,
+    rgba(255, 45, 45, 1) 100%
+  );
+  border-radius: 16px;
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 65px;
+}
+
+.dynamic-island .vector-23 {
+  height: 43px;
+  left: 16px;
+  position: absolute;
+  top: 11px;
+  width: 31px;
+}
+
+.dynamic-island .compnents {
+  position: relative;
+}
+
+.dynamic-island .charging {
+  color: #ffffff;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+}
+
+.dynamic-island .img-6 {
+  position: absolute;
+}
+
+.dynamic-island .leading {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 11.64px;
+  position: relative;
+}
+
+.dynamic-island .airpods-rd-gen {
+  height: 64px;
+  position: relative;
+  width: 64px;
+}
+
+.dynamic-island .trailing {
+  height: 43.73px;
+  position: relative;
+  width: 69.04px;
+}
+
+.dynamic-island .overlap-group-9 {
+  background-image: url(../../../static/img/ellipse-34.png);
+  background-size: 100% 100%;
+  border: 4.42px solid;
+  border-color: #13351f;
+  border-radius: 26.51px;
+  height: 53px;
+  left: 15px;
+  position: relative;
+  top: -9px;
+  width: 53px;
+}
+
+.dynamic-island .element-3 {
+  color: #54ff60;
+  font-family: "SF Pro Rounded-Semibold", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 11px;
+  letter-spacing: -0.41px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.dynamic-island .group-7 {
+  height: 37px;
+  width: 125px;
+}
+
+.dynamic-island .frame-5 {
+  background: linear-gradient(
+    231deg,
+    rgba(141, 252, 99, 1) 0%,
+    rgba(151, 245, 180, 1) 100%
+  );
+  border-radius: 7px 0px 0px 7px;
+  height: 17px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.dynamic-island .frame-6 {
+  background-color: #4a6940;
+  border-radius: 2px;
+  height: 6px;
+  left: 33px;
+  position: absolute;
+  top: 5px;
+  width: 2px;
+}
+
+.dynamic-island .element-4 {
+  font-family: "SF Pro Text-Semibold", Helvetica;
+  font-weight: 400;
+  white-space: nowrap;
+}
+
+.dynamic-island .silent {
+  font-weight: 400;
+  height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dynamic-island .frame-7 {
+  height: 22px;
+  position: relative;
+  width: 56px;
+}
+
+.dynamic-island .overlap-group-10 {
+  height: 22px;
+  position: relative;
+  top: -1px;
+}
+
+.dynamic-island .frame-8 {
+  height: 15px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 15px;
+}
+
+.dynamic-island .vector-24 {
+  height: 13px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.dynamic-island .element-min {
+  color: #96e882;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 43px;
+}
+
+.dynamic-island .cameras-wrapper {
+  height: 37px;
+  position: relative;
+  width: 125px;
+}
+
+.dynamic-island .phone {
+  height: 20px;
+  position: relative;
+  width: 47px;
+}
+
+.dynamic-island .background {
+  background-color: #000000;
+  height: 37px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 165px;
+}
+
+.dynamic-island .components {
+  position: absolute;
+}
+
+.dynamic-island .ellipse-14 {
+  position: absolute;
+}
+
+.dynamic-island .ellipse-15 {
+  background-color: var(--open-system-colorsorangelight);
+  border-radius: 3px;
+  height: 6px;
+  position: relative;
+  width: 6px;
+}
+
+.dynamic-island .ellipse-16 {
+  background-color: #34c759;
+  border-radius: 3px;
+  height: 6px;
+  position: relative;
+  width: 6px;
+}
+
+.dynamic-island .charging-icon-right {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  justify-content: center;
+  padding: 3px 3px 3px 0px;
+  position: relative;
+}
+
+.dynamic-island .element-5 {
+  color: #8deb92;
+  font-family: "SF Pro Text-Medium", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  height: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: -0.50px;
+  position: relative;
+  text-align: right;
+  transform: rotate(90.00deg);
+  white-space: nowrap;
+  width: 15px;
+}
+
+.dynamic-island .frame-9 {
+  background-color: #3f6d34;
+  border-radius: 7px;
+  height: 17px;
+  position: relative;
+  width: 32px;
+}
+
+.dynamic-island.type-2-mic-active {
+  background-color: #000000;
+  border-radius: 100px;
+  height: 37px;
+  position: relative;
+}
+
+.dynamic-island.type-2-screen-recording {
+  border-radius: 100px;
+  height: 37px;
+}
+
+.dynamic-island.type-2-silent-alarm {
+  border-radius: 100px;
+  height: 37px;
+}
+
+.dynamic-island.type-2-battery {
+  border-radius: 100px;
+  height: 37px;
+}
+
+.dynamic-island.type-2-mic-cam-active {
+  background-color: #000000;
+  border-radius: 100px;
+  height: 37px;
+  position: relative;
+}
+
+.dynamic-island.type-2-cam-active {
+  background-color: #000000;
+  border-radius: 100px;
+  height: 37px;
+  position: relative;
+}
+
+.dynamic-island.battery {
+  border-radius: 100px;
+  height: 37px;
+}
+
+.dynamic-island.type-2-default {
+  background-color: #000000;
+  border-radius: 100px;
+  height: 37px;
+  position: relative;
+}
+
+.dynamic-island.type-2-focus-modes {
+  border-radius: 100px;
+  height: 37px;
+}
+
+.dynamic-island.type-2-air-drop {
+  border-radius: 100px;
+}
+
+.dynamic-island.type-2-maps {
+  border-radius: 100px;
+  height: 37px;
+}
+
+.dynamic-island.type-2-ringer {
+  border-radius: 100px;
+  height: 37px;
+}
+
+.dynamic-island.type-2-mini {
+  background-color: #000000;
+  position: relative;
+}
+
+.dynamic-island.type-2-lock {
+  height: 37px;
+}
+
+.dynamic-island.mini.type-2-alarm {
+  border-radius: 42px;
+  height: 82px;
+}
+
+.dynamic-island.mini.type-2-face-time {
+  border-radius: 42px;
+  height: 202px;
+}
+
+.dynamic-island.compact.type-2-alarm {
+  border-radius: 42px;
+  height: 82px;
+}
+
+.dynamic-island.expanded.type-2-alarm {
+  border-radius: 42px;
+  height: 82px;
+}
+
+.dynamic-island.type-2-mobile-call.expanded {
+  border-radius: 42px;
+  height: 82px;
+}
+
+.dynamic-island.expanded.type-2-face-time {
+  border-radius: 42px;
+  height: 202px;
+}
+
+.dynamic-island.compact.type-2-mobile-call {
+  border-radius: 100px;
+  height: 37px;
+}
+
+.dynamic-island.type-2-air-drop.expanded {
+  height: 82px;
+}
+
+.dynamic-island.type-2-face-ID.mini {
+  height: 156px;
+}
+
+.dynamic-island.type-2-timer.expanded {
+  border-radius: 42px;
+  height: 82px;
+}
+
+.dynamic-island.type-2-timer.mini {
+  border-radius: 100px;
+  height: 37px;
+}
+
+.dynamic-island.compact.type-2-timer {
+  border-radius: 100px;
+  height: 37px;
+}
+
+.dynamic-island.compact.type-2-weather {
+  height: 37px;
+}
+
+.dynamic-island.compact.type-2-face-time {
+  border-radius: 42px;
+  height: 202px;
+}
+
+.dynamic-island.expanded.type-2-wallet-card {
+  height: 127px;
+}
+
+.dynamic-island.compact.type-2-wallet-card {
+  height: 127px;
+}
+
+.dynamic-island.type-2-mobile-call.mini {
+  border-radius: 100px;
+  height: 37px;
+}
+
+.dynamic-island.compact.type-2-air-drop {
+  height: 37px;
+}
+
+.dynamic-island.compact.type-2-music-player {
+  border-radius: 100px;
+  height: 37px;
+}
+
+.dynamic-island.expanded.type-2-music-player {
+  border-radius: 48px;
+  height: 202px;
+}
+
+.dynamic-island.expanded.type-2-airpods-pro {
+  border-radius: 100px;
+  height: 82px;
+}
+
+.dynamic-island.type-2-face-ID.expanded {
+  height: 156px;
+}
+
+.dynamic-island.compact.type-2-face-ID {
+  height: 156px;
+}
+
+.dynamic-island.type-2-weather.expanded {
+  height: 160px;
+}
+
+.dynamic-island.mini.type-2-wallet-card {
+  height: 127px;
+}
+
+.dynamic-island.compact.type-2-airpods-pro {
+  height: 37px;
+}
+
+.dynamic-island::before.type-2-wallet-card .camera-sensors {
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.5) 0%,
+    rgba(255, 255, 255, 0.08) 100%
+  );
+  content: "";
+  inset: 0;
+  mask-composite: exclude;
+  padding: 0.5px;
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.dynamic-island.type-2-mic-active .truedepth-camera-4 {
+  background-color: var(--system-backgrounddark-baseprimary);
+  border-radius: 100px;
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.type-2-screen-recording .truedepth-camera-4 {
+  height: 37px;
+  position: relative;
+}
+
+.dynamic-island.type-2-face-time .truedepth-camera-4 {
+  background-color: #000000;
+  left: -121px;
+  position: relative;
+  width: 367px;
+}
+
+.dynamic-island.type-2-weather .truedepth-camera-4 {
+  background-color: #000000;
+  position: relative;
+}
+
+.dynamic-island.type-2-silent-alarm .truedepth-camera-4 {
+  background-color: #000000;
+  border-radius: 100px;
+  height: 37px;
+  left: -76px;
+  position: relative;
+  width: 276px;
+}
+
+.dynamic-island.type-2-battery .truedepth-camera-4 {
+  background-color: #000000;
+  border-radius: 100px;
+  height: 37px;
+  left: -81px;
+  position: relative;
+  width: 288px;
+}
+
+.dynamic-island.type-2-airpods-pro .truedepth-camera-4 {
+  background-color: #000000;
+  position: relative;
+}
+
+.dynamic-island.type-2-timer .truedepth-camera-4 {
+  position: relative;
+}
+
+.dynamic-island.type-2-mic-cam-active .truedepth-camera-4 {
+  background-color: var(--system-backgrounddark-baseprimary);
+  border-radius: 100px;
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.type-2-mobile-call .truedepth-camera-4 {
+  position: relative;
+}
+
+.dynamic-island.type-2-cam-active .truedepth-camera-4 {
+  background-color: var(--system-backgrounddark-baseprimary);
+  border-radius: 100px;
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.type-2-wallet-card .truedepth-camera-4 {
+  background-color: #000000;
+  left: -48px;
+  position: relative;
+  width: 220px;
+}
+
+.dynamic-island.type-2-face-ID .truedepth-camera-4 {
+  background-color: #000000;
+  left: -18px;
+  position: relative;
+  top: -5px;
+  width: 161px;
+}
+
+.dynamic-island.battery .truedepth-camera-4 {
+  border-radius: 100px;
+  height: 37px;
+}
+
+.dynamic-island.type-2-default .truedepth-camera-4 {
+  position: relative;
+}
+
+.dynamic-island.type-2-focus-modes .truedepth-camera-4 {
+  height: 37px;
+  position: relative;
+}
+
+.dynamic-island.type-2-air-drop .truedepth-camera-4 {
+  position: relative;
+}
+
+.dynamic-island.type-2-music-player .truedepth-camera-4 {
+  background-color: #000000;
+  position: relative;
+}
+
+.dynamic-island.type-2-maps .truedepth-camera-4 {
+  background-color: #000000;
+  height: 37px;
+  left: -54px;
+  position: relative;
+  width: 232px;
+}
+
+.dynamic-island.type-2-ringer .truedepth-camera-4 {
+  background-color: #000000;
+  border-radius: 100px;
+  height: 37px;
+  left: -45px;
+  position: relative;
+  width: 214px;
+}
+
+.dynamic-island.type-2-alarm .truedepth-camera-4 {
+  position: relative;
+  width: 366px;
+}
+
+.dynamic-island.type-2-mini .truedepth-camera-4 {
+  background-color: var(--system-backgrounddark-baseprimary);
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.type-2-lock .truedepth-camera-4 {
+  background-color: #000000;
+  height: 37px;
+  left: -30px;
+  position: relative;
+  width: 155px;
+}
+
+.dynamic-island.compact.type-2-lock .truedepth-camera-4 {
+  border-radius: 1000px;
+}
+
+.dynamic-island.mini.type-2-lock .truedepth-camera-4 {
+  border-radius: 1000px;
+}
+
+.dynamic-island.expanded.type-2-lock .truedepth-camera-4 {
+  border-radius: 1000px;
+}
+
+.dynamic-island.mini.type-2-alarm .truedepth-camera-4 {
+  height: 86px;
+  left: -43px;
+}
+
+.dynamic-island.type-2-air-drop.mini .truedepth-camera-4 {
+  left: -43px;
+  width: 168px;
+}
+
+.dynamic-island.mini.type-2-screen-recording .truedepth-camera-4 {
+  left: -43px;
+  width: 168px;
+}
+
+.dynamic-island.mini.type-2-face-time .truedepth-camera-4 {
+  border-radius: 48px;
+  height: 202px;
+}
+
+.dynamic-island.type-2-maps.mini .truedepth-camera-4 {
+  border-radius: 18.2px;
+}
+
+.dynamic-island.type-2-maps.expanded .truedepth-camera-4 {
+  border-radius: 18.2px;
+}
+
+.dynamic-island.compact.type-2-alarm .truedepth-camera-4 {
+  height: 86px;
+  left: -122px;
+}
+
+.dynamic-island.expanded.type-2-alarm .truedepth-camera-4 {
+  height: 86px;
+  left: -122px;
+}
+
+.dynamic-island.compact.type-2-maps .truedepth-camera-4 {
+  border-radius: 18.2px;
+}
+
+.dynamic-island.type-2-mobile-call.expanded .truedepth-camera-4 {
+  background-color: #000000;
+  border-radius: 100px;
+  height: 82px;
+  left: -121px;
+  width: 366px;
+}
+
+.dynamic-island.mini.type-2-music-player .truedepth-camera-4 {
+  left: -43px;
+  width: 168px;
+}
+
+.dynamic-island.type-2-weather.mini .truedepth-camera-4 {
+  left: -43px;
+  width: 168px;
+}
+
+.dynamic-island.expanded.type-2-face-time .truedepth-camera-4 {
+  border-radius: 48px;
+  height: 202px;
+}
+
+.dynamic-island.compact.type-2-mobile-call .truedepth-camera-4 {
+  background-color: #000000;
+  border-radius: 100px;
+  height: 37px;
+  left: -80px;
+  width: 276px;
+}
+
+.dynamic-island.type-2-air-drop.expanded .truedepth-camera-4 {
+  border-radius: 69px;
+  height: 83px;
+  left: -121px;
+  width: 367px;
+}
+
+.dynamic-island.type-2-alarm.battery .truedepth-camera-4 {
+  left: -122px;
+}
+
+.dynamic-island.mini.type-2-default .truedepth-camera-4 {
+  left: -43px;
+  width: 168px;
+}
+
+.dynamic-island.type-2-face-ID.mini .truedepth-camera-4 {
+  border-radius: 40px;
+  height: 161px;
+}
+
+.dynamic-island.type-2-timer.expanded .truedepth-camera-4 {
+  height: 86px;
+  left: -122px;
+  width: 366px;
+}
+
+.dynamic-island.type-2-timer.mini .truedepth-camera-4 {
+  height: 37px;
+  left: -43px;
+  width: 168px;
+}
+
+.dynamic-island.compact.type-2-timer .truedepth-camera-4 {
+  background-color: #000000;
+  border-radius: 100px;
+  height: 37px;
+  left: -76px;
+  width: 276px;
+}
+
+.dynamic-island.compact.type-2-weather .truedepth-camera-4 {
+  border-radius: 1000px;
+  height: 37px;
+  left: -35px;
+  width: 196px;
+}
+
+.dynamic-island.compact.type-2-face-time .truedepth-camera-4 {
+  border-radius: 48px;
+  height: 202px;
+}
+
+.dynamic-island.expanded.type-2-wallet-card .truedepth-camera-4 {
+  border-radius: 69px;
+  height: 127px;
+}
+
+.dynamic-island.compact.type-2-wallet-card .truedepth-camera-4 {
+  border-radius: 69px;
+  height: 127px;
+}
+
+.dynamic-island.type-2-mobile-call.mini .truedepth-camera-4 {
+  height: 37px;
+  left: -43px;
+  width: 168px;
+}
+
+.dynamic-island.compact.type-2-air-drop .truedepth-camera-4 {
+  background-color: #000000;
+  border-radius: 100px;
+  height: 37px;
+  left: -30px;
+  width: 185px;
+}
+
+.dynamic-island.compact.type-2-music-player .truedepth-camera-4 {
+  border-radius: 100px;
+  height: 37px;
+  left: -30px;
+  width: 185px;
+}
+
+.dynamic-island.expanded.type-2-music-player .truedepth-camera-4 {
+  border-radius: 48px;
+  height: 202px;
+  left: -121px;
+  width: 367px;
+}
+
+.dynamic-island.expanded.type-2-airpods-pro .truedepth-camera-4 {
+  border-radius: 3839px;
+  height: 82px;
+  left: -120px;
+  width: 366px;
+}
+
+.dynamic-island.type-2-focus-modes.mini .truedepth-camera-4 {
+  left: -43px;
+  width: 168px;
+}
+
+.dynamic-island.type-2-face-ID.expanded .truedepth-camera-4 {
+  border-radius: 40px;
+  height: 161px;
+}
+
+.dynamic-island.compact.type-2-face-ID .truedepth-camera-4 {
+  border-radius: 40px;
+  height: 161px;
+}
+
+.dynamic-island.type-2-weather.expanded .truedepth-camera-4 {
+  border-radius: 48px;
+  height: 160px;
+  left: -121px;
+  width: 367px;
+}
+
+.dynamic-island.mini.type-2-wallet-card .truedepth-camera-4 {
+  border-radius: 69px;
+  height: 127px;
+}
+
+.dynamic-island.compact.type-2-airpods-pro .truedepth-camera-4 {
+  border-radius: 1000px;
+  height: 37px;
+  left: -30px;
+  width: 185px;
+}
+
+.dynamic-island.mini.type-2-airpods-pro .truedepth-camera-4 {
+  left: -43px;
+  width: 168px;
+}
+
+.dynamic-island.type-2-face-time .lock-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 45px;
+  left: 18px;
+  padding: 0px 12px 8px;
+  top: 37px;
+  width: 332px;
+}
+
+.dynamic-island.type-2-mobile-call .lock-2 {
+  height: 50px;
+  left: 14px;
+  top: 16px;
+  width: 334px;
+}
+
+.dynamic-island.type-2-music-player .lock-2 {
+  height: 37px;
+  left: 121px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.type-2-lock .lock-2 {
+  height: 22px;
+  left: 8px;
+  top: 8px;
+  width: 24px;
+}
+
+.dynamic-island.compact.type-2-weather .lock-2 {
+  height: 37px;
+  left: 35px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.type-2-weather.expanded .lock-2 {
+  height: 107px;
+  left: 30px;
+  top: 27px;
+  width: 309px;
+}
+
+.dynamic-island.type-2-mic-active .phone-circle-fill {
+  height: 45px;
+  left: 289px;
+  top: 3px;
+  width: 45px;
+}
+
+.dynamic-island.type-2-screen-recording .phone-circle-fill {
+  height: 45px;
+  left: 289px;
+  top: 3px;
+  width: 45px;
+}
+
+.dynamic-island.type-2-face-time .phone-circle-fill {
+  height: 45px;
+  left: 289px;
+  top: 3px;
+  width: 45px;
+}
+
+.dynamic-island.type-2-weather .phone-circle-fill {
+  height: 73px;
+  left: 0;
+  top: 34px;
+  width: 296px;
+}
+
+.dynamic-island.type-2-silent-alarm .phone-circle-fill {
+  height: 45px;
+  left: 289px;
+  top: 3px;
+  width: 45px;
+}
+
+.dynamic-island.type-2-battery .phone-circle-fill {
+  height: 45px;
+  left: 289px;
+  top: 3px;
+  width: 45px;
+}
+
+.dynamic-island.type-2-airpods-pro .phone-circle-fill {
+  height: 45px;
+  left: 289px;
+  top: 3px;
+  width: 45px;
+}
+
+.dynamic-island.type-2-timer .phone-circle-fill {
+  height: 45px;
+  left: 289px;
+  top: 3px;
+  width: 45px;
+}
+
+.dynamic-island.type-2-mic-cam-active .phone-circle-fill {
+  height: 45px;
+  left: 289px;
+  top: 3px;
+  width: 45px;
+}
+
+.dynamic-island.type-2-cam-active .phone-circle-fill {
+  height: 45px;
+  left: 289px;
+  top: 3px;
+  width: 45px;
+}
+
+.dynamic-island.type-2-mobile-call .phone-circle-fill {
+  height: 45px;
+  left: 289px;
+  top: 3px;
+  width: 45px;
+}
+
+.dynamic-island.type-2-wallet-card .phone-circle-fill {
+  height: 45px;
+  left: 289px;
+  top: 3px;
+  width: 45px;
+}
+
+.dynamic-island.type-2-face-ID .phone-circle-fill {
+  height: 45px;
+  left: 289px;
+  top: 3px;
+  width: 45px;
+}
+
+.dynamic-island.type-2-default .phone-circle-fill {
+  height: 45px;
+  left: 289px;
+  top: 3px;
+  width: 45px;
+}
+
+.dynamic-island.type-2-focus-modes .phone-circle-fill {
+  height: 45px;
+  left: 289px;
+  top: 3px;
+  width: 45px;
+}
+
+.dynamic-island.type-2-air-drop .phone-circle-fill {
+  height: 45px;
+  left: 289px;
+  top: 3px;
+  width: 45px;
+}
+
+.dynamic-island.type-2-music-player .phone-circle-fill {
+  height: 45px;
+  left: 289px;
+  top: 3px;
+  width: 45px;
+}
+
+.dynamic-island.type-2-maps .phone-circle-fill {
+  height: 45px;
+  left: 289px;
+  top: 3px;
+  width: 45px;
+}
+
+.dynamic-island.type-2-ringer .phone-circle-fill {
+  height: 45px;
+  left: 289px;
+  top: 3px;
+  width: 45px;
+}
+
+.dynamic-island.type-2-alarm .phone-circle-fill {
+  height: 45px;
+  left: 289px;
+  top: 3px;
+  width: 45px;
+}
+
+.dynamic-island.type-2-mini .phone-circle-fill {
+  height: 45px;
+  left: 289px;
+  top: 3px;
+  width: 45px;
+}
+
+.dynamic-island.type-2-lock .phone-circle-fill {
+  height: 45px;
+  left: 289px;
+  top: 3px;
+  width: 45px;
+}
+
+.dynamic-island.type-2-mic-active .precentages-speed {
+  height: 56px;
+  left: 299px;
+  top: 33px;
+  width: 18px;
+}
+
+.dynamic-island.type-2-screen-recording .precentages-speed {
+  height: 56px;
+  left: 299px;
+  top: 33px;
+  width: 18px;
+}
+
+.dynamic-island.type-2-face-time .precentages-speed {
+  height: 56px;
+  left: 299px;
+  top: 33px;
+  width: 18px;
+}
+
+.dynamic-island.type-2-weather .precentages-speed {
+  height: 56px;
+  left: 299px;
+  top: 33px;
+  width: 18px;
+}
+
+.dynamic-island.type-2-silent-alarm .precentages-speed {
+  height: 56px;
+  left: 299px;
+  top: 33px;
+  width: 18px;
+}
+
+.dynamic-island.type-2-battery .precentages-speed {
+  height: 56px;
+  left: 299px;
+  top: 33px;
+  width: 18px;
+}
+
+.dynamic-island.type-2-airpods-pro .precentages-speed {
+  height: 56px;
+  left: 299px;
+  top: 33px;
+  width: 18px;
+}
+
+.dynamic-island.type-2-timer .precentages-speed {
+  height: 56px;
+  left: 299px;
+  top: 33px;
+  width: 18px;
+}
+
+.dynamic-island.type-2-mic-cam-active .precentages-speed {
+  height: 56px;
+  left: 299px;
+  top: 33px;
+  width: 18px;
+}
+
+.dynamic-island.type-2-cam-active .precentages-speed {
+  height: 56px;
+  left: 299px;
+  top: 33px;
+  width: 18px;
+}
+
+.dynamic-island.type-2-mobile-call .precentages-speed {
+  height: 45px;
+  left: 232px;
+  top: 3px;
+  width: 45px;
+}
+
+.dynamic-island.type-2-wallet-card .precentages-speed {
+  height: 56px;
+  left: 299px;
+  top: 33px;
+  width: 18px;
+}
+
+.dynamic-island.type-2-face-ID .precentages-speed {
+  height: 56px;
+  left: 299px;
+  top: 33px;
+  width: 18px;
+}
+
+.dynamic-island.type-2-default .precentages-speed {
+  height: 56px;
+  left: 299px;
+  top: 33px;
+  width: 18px;
+}
+
+.dynamic-island.type-2-focus-modes .precentages-speed {
+  height: 56px;
+  left: 299px;
+  top: 33px;
+  width: 18px;
+}
+
+.dynamic-island.type-2-air-drop .precentages-speed {
+  height: 56px;
+  left: 299px;
+  top: 33px;
+  width: 18px;
+}
+
+.dynamic-island.type-2-music-player .precentages-speed {
+  height: 56px;
+  left: 299px;
+  top: 33px;
+  width: 18px;
+}
+
+.dynamic-island.type-2-maps .precentages-speed {
+  height: 56px;
+  left: 299px;
+  top: 33px;
+  width: 18px;
+}
+
+.dynamic-island.type-2-ringer .precentages-speed {
+  height: 56px;
+  left: 299px;
+  top: 33px;
+  width: 18px;
+}
+
+.dynamic-island.type-2-alarm .precentages-speed {
+  height: 56px;
+  left: 299px;
+  top: 33px;
+  width: 18px;
+}
+
+.dynamic-island.type-2-mini .precentages-speed {
+  height: 56px;
+  left: 299px;
+  top: 33px;
+  width: 18px;
+}
+
+.dynamic-island.type-2-lock .precentages-speed {
+  height: 56px;
+  left: 299px;
+  top: 33px;
+  width: 18px;
+}
+
+.dynamic-island.type-2-mic-active .compass {
+  height: 24px;
+  left: 230px;
+  top: 0;
+  width: 81px;
+}
+
+.dynamic-island.type-2-screen-recording .compass {
+  height: 24px;
+  left: 230px;
+  top: 0;
+  width: 81px;
+}
+
+.dynamic-island.type-2-face-time .compass {
+  height: 24px;
+  left: 230px;
+  top: 0;
+  width: 81px;
+}
+
+.dynamic-island.type-2-weather .compass {
+  height: 24px;
+  left: 230px;
+  top: 0;
+  width: 81px;
+}
+
+.dynamic-island.type-2-silent-alarm .compass {
+  height: 24px;
+  left: 230px;
+  top: 0;
+  width: 81px;
+}
+
+.dynamic-island.type-2-battery .compass {
+  height: 24px;
+  left: 230px;
+  top: 0;
+  width: 81px;
+}
+
+.dynamic-island.type-2-airpods-pro .compass {
+  height: 24px;
+  left: 230px;
+  top: 0;
+  width: 81px;
+}
+
+.dynamic-island.type-2-timer .compass {
+  height: 24px;
+  left: 230px;
+  top: 0;
+  width: 81px;
+}
+
+.dynamic-island.type-2-mic-cam-active .compass {
+  height: 24px;
+  left: 230px;
+  top: 0;
+  width: 81px;
+}
+
+.dynamic-island.type-2-cam-active .compass {
+  height: 24px;
+  left: 230px;
+  top: 0;
+  width: 81px;
+}
+
+.dynamic-island.type-2-mobile-call .compass {
+  height: 25px;
+  left: 54px;
+  top: 13px;
+  width: 44px;
+}
+
+.dynamic-island.type-2-wallet-card .compass {
+  height: 24px;
+  left: 230px;
+  top: 0;
+  width: 81px;
+}
+
+.dynamic-island.type-2-face-ID .compass {
+  height: 24px;
+  left: 230px;
+  top: 0;
+  width: 81px;
+}
+
+.dynamic-island.type-2-default .compass {
+  height: 24px;
+  left: 230px;
+  top: 0;
+  width: 81px;
+}
+
+.dynamic-island.type-2-focus-modes .compass {
+  height: 24px;
+  left: 230px;
+  top: 0;
+  width: 81px;
+}
+
+.dynamic-island.type-2-air-drop .compass {
+  height: 24px;
+  left: 230px;
+  top: 0;
+  width: 81px;
+}
+
+.dynamic-island.type-2-music-player .compass {
+  height: 24px;
+  left: 230px;
+  top: 0;
+  width: 81px;
+}
+
+.dynamic-island.type-2-maps .compass {
+  height: 24px;
+  left: 230px;
+  top: 0;
+  width: 81px;
+}
+
+.dynamic-island.type-2-ringer .compass {
+  height: 24px;
+  left: 230px;
+  top: 0;
+  width: 81px;
+}
+
+.dynamic-island.type-2-alarm .compass {
+  height: 24px;
+  left: 230px;
+  top: 0;
+  width: 81px;
+}
+
+.dynamic-island.type-2-mini .compass {
+  height: 24px;
+  left: 230px;
+  top: 0;
+  width: 81px;
+}
+
+.dynamic-island.type-2-lock .compass {
+  height: 24px;
+  left: 230px;
+  top: 0;
+  width: 81px;
+}
+
+.dynamic-island.type-2-mic-active .truedepth-camera-4 {
+  position: absolute;
+  width: 80px;
+}
+
+.dynamic-island.type-2-screen-recording .truedepth-camera-4 {
+  position: absolute;
+  width: 80px;
+}
+
+.dynamic-island.type-2-face-time .truedepth-camera-4 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.dynamic-island.type-2-weather .truedepth-camera-4 {
+  background-color: var(--system-backgrounddark-baseprimary);
+  border-radius: 100px;
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.type-2-silent-alarm .truedepth-camera-4 {
+  position: absolute;
+  width: 80px;
+}
+
+.dynamic-island.type-2-battery .truedepth-camera-4 {
+  position: absolute;
+  width: 80px;
+}
+
+.dynamic-island.type-2-airpods-pro .truedepth-camera-4 {
+  position: absolute;
+  width: 80px;
+}
+
+.dynamic-island.type-2-timer .truedepth-camera-4 {
+  position: absolute;
+  width: 80px;
+}
+
+.dynamic-island.type-2-mic-cam-active .truedepth-camera-4 {
+  position: absolute;
+  width: 80px;
+}
+
+.dynamic-island.type-2-cam-active .truedepth-camera-4 {
+  position: absolute;
+  width: 80px;
+}
+
+.dynamic-island.type-2-mobile-call .truedepth-camera-4 {
+  position: absolute;
+  width: 80px;
+}
+
+.dynamic-island.type-2-wallet-card .truedepth-camera-4 {
+  position: absolute;
+  width: 80px;
+}
+
+.dynamic-island.type-2-face-ID .truedepth-camera-4 {
+  position: absolute;
+  width: 80px;
+}
+
+.dynamic-island.type-2-default .truedepth-camera-4 {
+  position: absolute;
+  width: 80px;
+}
+
+.dynamic-island.type-2-focus-modes .truedepth-camera-4 {
+  position: absolute;
+  width: 80px;
+}
+
+.dynamic-island.type-2-air-drop .truedepth-camera-4 {
+  position: absolute;
+  width: 80px;
+}
+
+.dynamic-island.type-2-music-player .truedepth-camera-4 {
+  background-color: var(--system-backgrounddark-baseprimary);
+  border-radius: 100px;
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.type-2-maps .truedepth-camera-4 {
+  position: absolute;
+  width: 80px;
+}
+
+.dynamic-island.type-2-ringer .truedepth-camera-4 {
+  position: absolute;
+  width: 80px;
+}
+
+.dynamic-island.type-2-alarm .truedepth-camera-4 {
+  position: absolute;
+  width: 80px;
+}
+
+.dynamic-island.type-2-mini .truedepth-camera-4 {
+  position: absolute;
+  width: 80px;
+}
+
+.dynamic-island.type-2-lock .truedepth-camera-4 {
+  position: absolute;
+  width: 80px;
+}
+
+.dynamic-island.type-2-mic-active .facetime-camera-3 {
+  position: absolute;
+  width: 37px;
+}
+
+.dynamic-island.type-2-screen-recording .facetime-camera-3 {
+  position: absolute;
+  width: 37px;
+}
+
+.dynamic-island.type-2-face-time .facetime-camera-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.dynamic-island.type-2-weather .facetime-camera-3 {
+  background-color: var(--system-backgrounddark-baseprimary);
+  border-radius: 100px;
+  height: 37px;
+  left: 88px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.dynamic-island.type-2-silent-alarm .facetime-camera-3 {
+  position: absolute;
+  width: 37px;
+}
+
+.dynamic-island.type-2-battery .facetime-camera-3 {
+  position: absolute;
+  width: 37px;
+}
+
+.dynamic-island.type-2-airpods-pro .facetime-camera-3 {
+  position: absolute;
+  width: 37px;
+}
+
+.dynamic-island.type-2-timer .facetime-camera-3 {
+  position: absolute;
+  width: 37px;
+}
+
+.dynamic-island.type-2-mic-cam-active .facetime-camera-3 {
+  position: absolute;
+  width: 37px;
+}
+
+.dynamic-island.type-2-cam-active .facetime-camera-3 {
+  position: absolute;
+  width: 37px;
+}
+
+.dynamic-island.type-2-mobile-call .facetime-camera-3 {
+  position: absolute;
+  width: 37px;
+}
+
+.dynamic-island.type-2-wallet-card .facetime-camera-3 {
+  position: absolute;
+  width: 37px;
+}
+
+.dynamic-island.type-2-face-ID .facetime-camera-3 {
+  position: absolute;
+  width: 37px;
+}
+
+.dynamic-island.type-2-default .facetime-camera-3 {
+  position: absolute;
+  width: 37px;
+}
+
+.dynamic-island.type-2-focus-modes .facetime-camera-3 {
+  position: absolute;
+  width: 37px;
+}
+
+.dynamic-island.type-2-air-drop .facetime-camera-3 {
+  position: absolute;
+  width: 37px;
+}
+
+.dynamic-island.type-2-music-player .facetime-camera-3 {
+  background-color: var(--system-backgrounddark-baseprimary);
+  border-radius: 100px;
+  height: 37px;
+  left: 88px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.dynamic-island.type-2-maps .facetime-camera-3 {
+  position: absolute;
+  width: 37px;
+}
+
+.dynamic-island.type-2-ringer .facetime-camera-3 {
+  position: absolute;
+  width: 37px;
+}
+
+.dynamic-island.type-2-alarm .facetime-camera-3 {
+  position: absolute;
+  width: 37px;
+}
+
+.dynamic-island.type-2-mini .facetime-camera-3 {
+  position: absolute;
+  width: 37px;
+}
+
+.dynamic-island.type-2-lock .facetime-camera-3 {
+  position: absolute;
+  width: 37px;
+}
+
+.dynamic-island.type-2-timer .icon {
+  background-color: #000000;
+  border-radius: 100px;
+  height: 82px;
+  left: 0;
+  top: 0;
+  width: 366px;
+}
+
+.dynamic-island.type-2-wallet-card .icon {
+  background-color: var(--system-backgrounddark-baseprimary);
+  border-radius: 100px;
+  height: 37px;
+  left: 48px;
+  overflow: hidden;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.type-2-face-ID .icon {
+  height: 74px;
+  left: 44px;
+  overflow: hidden;
+  top: 42px;
+  width: 74px;
+}
+
+.dynamic-island.type-2-music-player .icon {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 146, 146, 1) 0%,
+    rgba(255, 35, 35, 1) 100%
+  );
+  border-radius: 6px;
+  height: 22px;
+  left: 8px;
+  top: 8px;
+  width: 22px;
+}
+
+.dynamic-island.type-2-maps .icon {
+  color: #8cb8db;
+  font-family: "SF Pro Text-Bold", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 17px;
+  text-align: center;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.dynamic-island.type-2-alarm .icon {
+  background-color: #000000;
+  border-radius: 100px;
+  height: 82px;
+  left: 0;
+  top: 0;
+  width: 366px;
+}
+
+.dynamic-island.type-2-air-drop.expanded .icon {
+  background-color: #000000;
+  border-radius: 40px;
+  height: 82px;
+  left: 0;
+  top: 0;
+  width: 366px;
+}
+
+.dynamic-island.compact.type-2-air-drop .icon {
+  height: 22px;
+  left: 8px;
+  top: 8px;
+  width: 22px;
+}
+
+.dynamic-island.type-2-wallet-card .overlap-group-4 {
+  height: 48px;
+  left: -1px;
+  top: 37px;
+  width: 82px;
+}
+
+.dynamic-island.type-2-air-drop .overlap-group-4 {
+  height: 21px;
+}
+
+.dynamic-island.expanded.type-2-lock .overlap-group-4 {
+  height: 74px;
+}
+
+.dynamic-island.expanded.type-2-mic-active .overlap-group-4 {
+  height: 74px;
+}
+
+.dynamic-island.expanded.type-2-screen-recording .overlap-group-4 {
+  height: 74px;
+}
+
+.dynamic-island.type-2-maps.expanded .overlap-group-4 {
+  height: 74px;
+}
+
+.dynamic-island.expanded.type-2-alarm .overlap-group-4 {
+  height: 74px;
+}
+
+.dynamic-island.type-2-mobile-call.expanded .overlap-group-4 {
+  height: 74px;
+}
+
+.dynamic-island.expanded.type-2-silent-alarm .overlap-group-4 {
+  height: 74px;
+}
+
+.dynamic-island.expanded.type-2-face-time .overlap-group-4 {
+  height: 74px;
+}
+
+.dynamic-island.type-2-battery.expanded .overlap-group-4 {
+  height: 74px;
+}
+
+.dynamic-island.type-2-ringer.expanded .overlap-group-4 {
+  height: 74px;
+}
+
+.dynamic-island.expanded.type-2-mini .overlap-group-4 {
+  height: 74px;
+}
+
+.dynamic-island.expanded.type-2-default .overlap-group-4 {
+  height: 74px;
+}
+
+.dynamic-island.type-2-timer.expanded .overlap-group-4 {
+  height: 74px;
+}
+
+.dynamic-island.expanded.type-2-music-player .overlap-group-4 {
+  height: 74px;
+}
+
+.dynamic-island.expanded.type-2-airpods-pro .overlap-group-4 {
+  height: 74px;
+}
+
+.dynamic-island.type-2-cam-active.expanded .overlap-group-4 {
+  height: 74px;
+}
+
+.dynamic-island.type-2-face-ID.expanded .overlap-group-4 {
+  height: 74px;
+}
+
+.dynamic-island.type-2-weather.expanded .overlap-group-4 {
+  height: 74px;
+}
+
+.dynamic-island.expanded.type-2-mic-cam-active .overlap-group-4 {
+  height: 74px;
+}
+
+.dynamic-island.type-2-focus-modes.expanded .overlap-group-4 {
+  height: 74px;
+}
+
+.dynamic-island.expanded .ellipse-4 {
+  height: 74px;
+  left: 298px;
+  top: 637px;
+  width: 74px;
+}
+
+.dynamic-island.compact .ellipse-4 {
+  height: 9px;
+  left: 6px;
+  top: 6px;
+  width: 10px;
+}
+
+.dynamic-island.type-2-mic-active .camera-sensors {
+  top: 0;
+}
+
+.dynamic-island.type-2-screen-recording .camera-sensors {
+  top: 0;
+}
+
+.dynamic-island.type-2-face-time .camera-sensors {
+  top: 0;
+}
+
+.dynamic-island.type-2-weather .camera-sensors {
+  top: 0;
+}
+
+.dynamic-island.type-2-silent-alarm .camera-sensors {
+  top: 0;
+}
+
+.dynamic-island.type-2-battery .camera-sensors {
+  top: 0;
+}
+
+.dynamic-island.type-2-airpods-pro .camera-sensors {
+  top: 0;
+}
+
+.dynamic-island.type-2-timer .camera-sensors {
+  border-radius: 69px;
+  box-shadow: 0px 8px 16px #00000040;
+  height: 86px;
+  left: 16px;
+  top: 0;
+  width: 334px;
+}
+
+.dynamic-island.type-2-mic-cam-active .camera-sensors {
+  top: 0;
+}
+
+.dynamic-island.type-2-mobile-call .camera-sensors {
+  top: 0;
+}
+
+.dynamic-island.type-2-cam-active .camera-sensors {
+  top: 0;
+}
+
+.dynamic-island.type-2-wallet-card .camera-sensors {
+  border: none;
+  border-radius: 5px;
+  height: 57px;
+  left: 59px;
+  overflow: hidden;
+  top: 37px;
+  width: 103px;
+}
+
+.dynamic-island.type-2-face-ID .camera-sensors {
+  background-color: var(--system-backgrounddark-baseprimary);
+  border-radius: 100px;
+  height: 37px;
+  left: 18px;
+  top: 5px;
+  width: 80px;
+}
+
+.dynamic-island.type-2-default .camera-sensors {
+  top: 0;
+}
+
+.dynamic-island.type-2-focus-modes .camera-sensors {
+  top: 0;
+}
+
+.dynamic-island.type-2-air-drop .camera-sensors {
+  top: 0;
+}
+
+.dynamic-island.type-2-music-player .camera-sensors {
+  height: 37px;
+  left: 32px;
+  top: 0;
+  width: 121px;
+}
+
+.dynamic-island.type-2-maps .camera-sensors {
+  height: 21px;
+  left: 179px;
+  top: 8px;
+  width: 50px;
+}
+
+.dynamic-island.type-2-ringer .camera-sensors {
+  top: 0;
+}
+
+.dynamic-island.type-2-alarm .camera-sensors {
+  border-radius: 69px;
+  box-shadow: 0px 8px 16px #00000040;
+  height: 86px;
+  left: 16px;
+  top: 0;
+  width: 334px;
+}
+
+.dynamic-island.type-2-mini .camera-sensors {
+  top: 0;
+}
+
+.dynamic-island.type-2-lock .camera-sensors {
+  top: 0;
+}
+
+.dynamic-island.type-2-air-drop.expanded .camera-sensors {
+  border-radius: 69px;
+  box-shadow: 0px 8px 16px #00000040;
+  height: 83px;
+  left: 0;
+  width: 367px;
+}
+
+.dynamic-island.compact.type-2-air-drop .camera-sensors {
+  height: 37px;
+  left: 30px;
+  width: 125px;
+}
+
+.dynamic-island.type-2-wallet-card .camera-sensors {
+  background: radial-gradient(
+    50% 50% at 75% 50%,
+    rgba(211, 211, 211, 1) 0%,
+    rgba(54, 54, 54, 1) 100%
+  );
+}
+
+.dynamic-island.type-2-mic-active .cameras-2 {
+  height: 37px;
+}
+
+.dynamic-island.type-2-screen-recording .cameras-2 {
+  height: 37px;
+}
+
+.dynamic-island.type-2-face-time .cameras-2 {
+  height: 37px;
+}
+
+.dynamic-island.type-2-weather .cameras-2 {
+  height: 37px;
+}
+
+.dynamic-island.type-2-silent-alarm .cameras-2 {
+  height: 37px;
+}
+
+.dynamic-island.type-2-battery .cameras-2 {
+  height: 37px;
+}
+
+.dynamic-island.type-2-airpods-pro .cameras-2 {
+  height: 37px;
+}
+
+.dynamic-island.type-2-timer .cameras-2 {
+  height: 45px;
+  left: 4px;
+  top: 20px;
+  width: 326px;
+}
+
+.dynamic-island.type-2-mic-cam-active .cameras-2 {
+  height: 37px;
+}
+
+.dynamic-island.type-2-mobile-call .cameras-2 {
+  height: 37px;
+}
+
+.dynamic-island.type-2-cam-active .cameras-2 {
+  height: 37px;
+}
+
+.dynamic-island.type-2-wallet-card .cameras-2 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke: 0.3px transparent;
+  background: linear-gradient(
+    180deg,
+    rgba(102, 102, 102, 1) 0%,
+    rgba(41, 41, 41, 1) 100%
+  );
+  background-clip: text;
+  background-image: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(255, 255, 255, 0.5) 100%
+    )
+    1;
+  color: transparent;
+  font-family: "SF Mono-Semibold", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  height: 35px;
+  left: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-fill-color: transparent;
+  top: 10px;
+  white-space: nowrap;
+  width: 19px;
+}
+
+.dynamic-island.type-2-face-ID .cameras-2 {
+  height: 37px;
+}
+
+.dynamic-island.type-2-default .cameras-2 {
+  height: 37px;
+}
+
+.dynamic-island.type-2-focus-modes .cameras-2 {
+  height: 37px;
+}
+
+.dynamic-island.type-2-air-drop .cameras-2 {
+  height: 37px;
+  position: relative;
+}
+
+.dynamic-island.type-2-music-player .cameras-2 {
+  height: 37px;
+}
+
+.dynamic-island.type-2-maps .cameras-2 {
+  height: 37px;
+}
+
+.dynamic-island.type-2-ringer .cameras-2 {
+  height: 37px;
+}
+
+.dynamic-island.type-2-alarm .cameras-2 {
+  height: 37px;
+}
+
+.dynamic-island.expanded .cameras-2 {
+  position: relative;
+}
+
+.dynamic-island.type-2-mini .cameras-2 {
+  height: 37px;
+}
+
+.dynamic-island.type-2-lock .cameras-2 {
+  height: 37px;
+}
+
+.dynamic-island.type-2-wallet-card.battery .cameras-2 {
+  position: absolute;
+}
+
+.dynamic-island.compact.type-2-wallet-card .cameras-2 {
+  position: absolute;
+}
+
+.dynamic-island.mini.type-2-wallet-card .cameras-2 {
+  position: absolute;
+}
+
+.dynamic-island.compact .truedepth-camera {
+  background-color: var(--system-backgrounddark-baseprimary);
+  border-radius: 100px;
+  height: 37px;
+  width: 80px;
+}
+
+.dynamic-island.type-2-timer.expanded .truedepth-camera {
+  height: 45px;
+  width: 101px;
+}
+
+.dynamic-island.type-2-timer.mini .truedepth-camera {
+  height: 45px;
+  width: 101px;
+}
+
+.dynamic-island.type-2-timer.battery .truedepth-camera {
+  height: 45px;
+  width: 101px;
+}
+
+.dynamic-island.compact .facetime-camera {
+  background-color: var(--system-backgrounddark-baseprimary);
+  border-radius: 100px;
+  height: 37px;
+  left: 88px;
+  overflow: hidden;
+  top: 0;
+  width: 37px;
+}
+
+.dynamic-island.type-2-timer.expanded .facetime-camera {
+  height: 28px;
+  left: 214px;
+  top: 9px;
+  width: 112px;
+}
+
+.dynamic-island.type-2-timer.mini .facetime-camera {
+  height: 28px;
+  left: 214px;
+  top: 9px;
+  width: 112px;
+}
+
+.dynamic-island.type-2-timer.battery .facetime-camera {
+  height: 28px;
+  left: 214px;
+  top: 9px;
+  width: 112px;
+}
+
+.dynamic-island.type-2-music-player .FT {
+  background-color: var(--system-backgrounddark-baseprimary);
+}
+
+.dynamic-island.type-2-maps .FT {
+  color: #a6cde7;
+  font-family: "SF Pro Rounded-Medium", Helvetica;
+  font-size: 10px;
+  font-weight: 500;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.dynamic-island.expanded .FT {
+  border: 4.91px solid;
+  border-color: #27457299;
+  border-radius: 27px;
+  height: 54px;
+  width: 54px;
+}
+
+.dynamic-island.expanded.type-2-lock .FT {
+  left: 289px;
+  top: 15px;
+}
+
+.dynamic-island.expanded.type-2-mic-active .FT {
+  left: 289px;
+  top: 15px;
+}
+
+.dynamic-island.expanded.type-2-screen-recording .FT {
+  left: 289px;
+  top: 15px;
+}
+
+.dynamic-island.type-2-music-player.battery .FT {
+  border-radius: 100px;
+  height: 37px;
+  left: 0;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.expanded.type-2-alarm .FT {
+  left: 289px;
+  top: 15px;
+}
+
+.dynamic-island.type-2-mobile-call.expanded .FT {
+  left: 289px;
+  top: 15px;
+}
+
+.dynamic-island.mini.type-2-music-player .FT {
+  border-radius: 100px;
+  height: 37px;
+  left: 0;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.expanded.type-2-silent-alarm .FT {
+  left: 289px;
+  top: 15px;
+}
+
+.dynamic-island.expanded.type-2-face-time .FT {
+  left: 289px;
+  top: 15px;
+}
+
+.dynamic-island.type-2-battery.expanded .FT {
+  left: 289px;
+  top: 15px;
+}
+
+.dynamic-island.type-2-air-drop.expanded .FT {
+  left: 289px;
+  top: 15px;
+}
+
+.dynamic-island.type-2-ringer.expanded .FT {
+  left: 289px;
+  top: 15px;
+}
+
+.dynamic-island.expanded.type-2-mini .FT {
+  left: 289px;
+  top: 15px;
+}
+
+.dynamic-island.expanded.type-2-default .FT {
+  left: 289px;
+  top: 15px;
+}
+
+.dynamic-island.type-2-timer.expanded .FT {
+  left: 289px;
+  top: 15px;
+}
+
+.dynamic-island.expanded.type-2-wallet-card .FT {
+  left: 289px;
+  top: 15px;
+}
+
+.dynamic-island.compact.type-2-music-player .FT {
+  border-radius: 100px;
+  height: 37px;
+  left: 0;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.expanded.type-2-music-player .FT {
+  left: 289px;
+  top: 15px;
+}
+
+.dynamic-island.expanded.type-2-airpods-pro .FT {
+  left: 289px;
+  top: 15px;
+}
+
+.dynamic-island.type-2-cam-active.expanded .FT {
+  left: 289px;
+  top: 15px;
+}
+
+.dynamic-island.type-2-face-ID.expanded .FT {
+  left: 289px;
+  top: 15px;
+}
+
+.dynamic-island.type-2-weather.expanded .FT {
+  left: 289px;
+  top: 15px;
+}
+
+.dynamic-island.expanded.type-2-mic-cam-active .FT {
+  left: 289px;
+  top: 15px;
+}
+
+.dynamic-island.type-2-focus-modes.expanded .FT {
+  left: 289px;
+  top: 15px;
+}
+
+.dynamic-island.type-2-music-player .element-2 {
+  background-color: var(--system-backgrounddark-baseprimary);
+  border-radius: 100px;
+  overflow: hidden;
+}
+
+.dynamic-island.type-2-maps .element-2 {
+  color: #a6cde7;
+  font-family: "SF Pro Rounded-Medium", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.dynamic-island.compact .element-2 {
+  top: 0;
+}
+
+.dynamic-island.expanded .element-2 {
+  height: 55px;
+  top: 15px;
+  width: 161px;
+}
+
+.dynamic-island.expanded.type-2-lock .element-2 {
+  left: 24px;
+}
+
+.dynamic-island.expanded.type-2-mic-active .element-2 {
+  left: 24px;
+}
+
+.dynamic-island.expanded.type-2-screen-recording .element-2 {
+  left: 24px;
+}
+
+.dynamic-island.type-2-music-player.battery .element-2 {
+  height: 37px;
+  left: 84px;
+  width: 37px;
+}
+
+.dynamic-island.expanded.type-2-alarm .element-2 {
+  left: 24px;
+}
+
+.dynamic-island.type-2-mobile-call.expanded .element-2 {
+  left: 24px;
+}
+
+.dynamic-island.mini.type-2-music-player .element-2 {
+  height: 37px;
+  left: 84px;
+  width: 37px;
+}
+
+.dynamic-island.expanded.type-2-silent-alarm .element-2 {
+  left: 24px;
+}
+
+.dynamic-island.expanded.type-2-face-time .element-2 {
+  left: 24px;
+}
+
+.dynamic-island.type-2-battery.expanded .element-2 {
+  left: 24px;
+}
+
+.dynamic-island.type-2-air-drop.expanded .element-2 {
+  left: 24px;
+}
+
+.dynamic-island.type-2-ringer.expanded .element-2 {
+  left: 24px;
+}
+
+.dynamic-island.expanded.type-2-mini .element-2 {
+  left: 24px;
+}
+
+.dynamic-island.expanded.type-2-default .element-2 {
+  left: 24px;
+}
+
+.dynamic-island.type-2-timer.expanded .element-2 {
+  left: 24px;
+}
+
+.dynamic-island.expanded.type-2-wallet-card .element-2 {
+  left: 24px;
+}
+
+.dynamic-island.compact.type-2-music-player .element-2 {
+  height: 37px;
+  left: 84px;
+  width: 37px;
+}
+
+.dynamic-island.expanded.type-2-music-player .element-2 {
+  left: 24px;
+}
+
+.dynamic-island.expanded.type-2-airpods-pro .element-2 {
+  left: 24px;
+}
+
+.dynamic-island.type-2-cam-active.expanded .element-2 {
+  left: 24px;
+}
+
+.dynamic-island.type-2-face-ID.expanded .element-2 {
+  left: 24px;
+}
+
+.dynamic-island.type-2-weather.expanded .element-2 {
+  left: 24px;
+}
+
+.dynamic-island.expanded.type-2-mic-cam-active .element-2 {
+  left: 24px;
+}
+
+.dynamic-island.type-2-focus-modes.expanded .element-2 {
+  left: 24px;
+}
+
+.dynamic-island.type-2-timer .download {
+  height: 37px;
+  left: 122px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.type-2-wallet-card .download {
+  background-color: var(--system-backgrounddark-baseprimary);
+  border-radius: 100px;
+  height: 37px;
+  left: 136px;
+  overflow: hidden;
+  top: 0;
+  width: 37px;
+}
+
+.dynamic-island.type-2-face-ID .download {
+  background-color: var(--system-backgrounddark-baseprimary);
+  border-radius: 100px;
+  height: 37px;
+  left: 106px;
+  overflow: hidden;
+  top: 5px;
+  width: 37px;
+}
+
+.dynamic-island.type-2-music-player .download {
+  height: 22px;
+  left: 155px;
+  top: 8px;
+  width: 22px;
+}
+
+.dynamic-island.type-2-maps .download {
+  height: 37px;
+  left: 54px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.type-2-alarm .download {
+  height: 37px;
+  left: 122px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.type-2-air-drop.expanded .download {
+  height: 37px;
+  left: 121px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.compact.type-2-air-drop .download {
+  border: 2px solid;
+  border-color: #274572;
+  border-radius: 11px;
+  height: 22px;
+  left: 155px;
+  top: 8px;
+  width: 22px;
+}
+
+.dynamic-island.type-2-mic-active .truedepth-camera-4 {
+  height: 37px;
+  position: relative;
+}
+
+.dynamic-island.type-2-screen-recording .truedepth-camera-4 {
+  height: 37px;
+  position: relative;
+}
+
+.dynamic-island.type-2-face-time .truedepth-camera-4 {
+  height: 37px;
+  position: relative;
+}
+
+.dynamic-island.type-2-weather .truedepth-camera-4 {
+  height: 37px;
+  position: relative;
+}
+
+.dynamic-island.type-2-silent-alarm .truedepth-camera-4 {
+  height: 37px;
+  position: relative;
+}
+
+.dynamic-island.type-2-battery .truedepth-camera-4 {
+  height: 37px;
+  position: relative;
+}
+
+.dynamic-island.type-2-airpods-pro .truedepth-camera-4 {
+  height: 37px;
+  position: relative;
+}
+
+.dynamic-island.type-2-timer .truedepth-camera-4 {
+  height: 37px;
+  position: relative;
+}
+
+.dynamic-island.type-2-mic-cam-active .truedepth-camera-4 {
+  height: 37px;
+  position: relative;
+}
+
+.dynamic-island.type-2-cam-active .truedepth-camera-4 {
+  height: 37px;
+  position: relative;
+}
+
+.dynamic-island.type-2-mobile-call .truedepth-camera-4 {
+  height: 37px;
+  position: relative;
+}
+
+.dynamic-island.type-2-wallet-card .truedepth-camera-4 {
+  background-color: #111111;
+  border-radius: 100px;
+  height: 13px;
+  left: 12px;
+  position: relative;
+  top: 12px;
+  width: 13px;
+}
+
+.dynamic-island.type-2-face-ID .truedepth-camera-4 {
+  background-color: #111111;
+  border-radius: 100px;
+  height: 13px;
+  left: 12px;
+  position: relative;
+  top: 12px;
+  width: 13px;
+}
+
+.dynamic-island.type-2-default .truedepth-camera-4 {
+  height: 37px;
+  position: relative;
+}
+
+.dynamic-island.type-2-focus-modes .truedepth-camera-4 {
+  height: 37px;
+  position: relative;
+}
+
+.dynamic-island.type-2-air-drop .truedepth-camera-4 {
+  height: 37px;
+  position: relative;
+}
+
+.dynamic-island.type-2-music-player .truedepth-camera-4 {
+  background-color: #fee801;
+  border-radius: 50px;
+  height: 6px;
+  left: 1px;
+  position: absolute;
+  top: 8px;
+  width: 2px;
+}
+
+.dynamic-island.type-2-maps .truedepth-camera-4 {
+  background-color: var(--system-backgrounddark-baseprimary);
+  border-radius: 100px;
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.type-2-ringer .truedepth-camera-4 {
+  height: 37px;
+  position: relative;
+}
+
+.dynamic-island.type-2-alarm .truedepth-camera-4 {
+  height: 37px;
+  position: relative;
+}
+
+.dynamic-island.type-2-mini .truedepth-camera-4 {
+  height: 37px;
+  position: relative;
+}
+
+.dynamic-island.type-2-lock .truedepth-camera-4 {
+  height: 37px;
+  position: relative;
+}
+
+.dynamic-island.type-2-mic-active .camera-2 {
+  height: 37px;
+  left: 121px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.type-2-screen-recording .camera-2 {
+  height: 37px;
+  left: 121px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.type-2-face-time .camera-2 {
+  height: 37px;
+  left: 121px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.type-2-silent-alarm .camera-2 {
+  height: 37px;
+  left: 121px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.type-2-battery .camera-2 {
+  height: 37px;
+  left: 121px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.type-2-airpods-pro .camera-2 {
+  height: 37px;
+  left: 30px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.type-2-timer .camera-2 {
+  height: 37px;
+  left: 121px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.type-2-mic-cam-active .camera-2 {
+  height: 37px;
+  left: 121px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.type-2-mobile-call .camera-2 {
+  height: 37px;
+  left: 121px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.type-2-cam-active .camera-2 {
+  height: 37px;
+  left: 121px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.type-2-wallet-card .camera-2 {
+  height: 37px;
+  left: 121px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.type-2-face-ID .camera-2 {
+  height: 37px;
+  left: 121px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.type-2-default .camera-2 {
+  height: 37px;
+  left: 121px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.type-2-focus-modes .camera-2 {
+  height: 37px;
+  left: 121px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.type-2-air-drop .camera-2 {
+  height: 37px;
+  left: 121px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.type-2-music-player .camera-2 {
+  height: 156px;
+  left: 24px;
+  top: 37px;
+  width: 318px;
+}
+
+.dynamic-island.type-2-maps .camera-2 {
+  height: 37px;
+  left: 121px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.type-2-ringer .camera-2 {
+  height: 37px;
+  left: 121px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.type-2-alarm .camera-2 {
+  height: 37px;
+  left: 121px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.type-2-mini .camera-2 {
+  height: 37px;
+  left: 121px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.type-2-lock .camera-2 {
+  height: 37px;
+  left: 30px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.type-2-weather.battery .camera-2 {
+  height: 37px;
+  left: 121px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.type-2-weather.mini .camera-2 {
+  height: 37px;
+  left: 121px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.compact.type-2-weather .camera-2 {
+  height: 25px;
+  left: 11px;
+  top: 6px;
+  width: 178px;
+}
+
+.dynamic-island.type-2-weather.expanded .camera-2 {
+  height: 37px;
+  left: 121px;
+  top: 0;
+  width: 125px;
+}
+
+.dynamic-island.type-2-mic-active .truedepth-camera-3 {
+  height: 37px;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.type-2-screen-recording .truedepth-camera-3 {
+  height: 37px;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.type-2-face-time .truedepth-camera-3 {
+  height: 37px;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.type-2-silent-alarm .truedepth-camera-3 {
+  height: 37px;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.type-2-battery .truedepth-camera-3 {
+  height: 37px;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.type-2-airpods-pro .truedepth-camera-3 {
+  background-color: var(--system-backgrounddark-baseprimary);
+  border-radius: 100px;
+  height: 37px;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.type-2-timer .truedepth-camera-3 {
+  height: 37px;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.type-2-mic-cam-active .truedepth-camera-3 {
+  height: 37px;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.type-2-mobile-call .truedepth-camera-3 {
+  height: 37px;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.type-2-cam-active .truedepth-camera-3 {
+  height: 37px;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.type-2-wallet-card .truedepth-camera-3 {
+  height: 37px;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.type-2-face-ID .truedepth-camera-3 {
+  height: 37px;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.mini .truedepth-camera-3 {
+  height: 37px;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.battery .truedepth-camera-3 {
+  height: 37px;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.type-2-default .truedepth-camera-3 {
+  height: 37px;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.type-2-focus-modes .truedepth-camera-3 {
+  height: 37px;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.type-2-air-drop .truedepth-camera-3 {
+  height: 37px;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.type-2-music-player .truedepth-camera-3 {
+  height: 37px;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.type-2-maps .truedepth-camera-3 {
+  height: 37px;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.type-2-ringer .truedepth-camera-3 {
+  height: 37px;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.type-2-alarm .truedepth-camera-3 {
+  height: 37px;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.expanded .truedepth-camera-3 {
+  background-color: var(--system-backgrounddark-baseprimary);
+  border-radius: 100px;
+  height: 37px;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.type-2-mini .truedepth-camera-3 {
+  height: 37px;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.type-2-lock .truedepth-camera-3 {
+  background-color: var(--system-backgrounddark-baseprimary);
+  border-radius: 100px;
+  height: 37px;
+  top: 0;
+  width: 80px;
+}
+
+.dynamic-island.compact.type-2-weather .truedepth-camera-3 {
+  height: 21px;
+  top: 2px;
+  width: 21px;
+}
+
+.dynamic-island.type-2-mic-active .facetime-camera-2 {
+  height: 37px;
+  left: 88px;
+  width: 37px;
+}
+
+.dynamic-island.type-2-screen-recording .facetime-camera-2 {
+  height: 37px;
+  left: 88px;
+  width: 37px;
+}
+
+.dynamic-island.type-2-face-time .facetime-camera-2 {
+  height: 37px;
+  left: 88px;
+  width: 37px;
+}
+
+.dynamic-island.type-2-silent-alarm .facetime-camera-2 {
+  height: 37px;
+  left: 88px;
+  width: 37px;
+}
+
+.dynamic-island.type-2-battery .facetime-camera-2 {
+  height: 37px;
+  left: 88px;
+  width: 37px;
+}
+
+.dynamic-island.type-2-airpods-pro .facetime-camera-2 {
+  background-color: var(--system-backgrounddark-baseprimary);
+  border-radius: 100px;
+  height: 37px;
+  left: 88px;
+  overflow: hidden;
+  width: 37px;
+}
+
+.dynamic-island.type-2-timer .facetime-camera-2 {
+  height: 37px;
+  left: 88px;
+  width: 37px;
+}
+
+.dynamic-island.type-2-mic-cam-active .facetime-camera-2 {
+  height: 37px;
+  left: 88px;
+  width: 37px;
+}
+
+.dynamic-island.type-2-mobile-call .facetime-camera-2 {
+  height: 37px;
+  left: 88px;
+  width: 37px;
+}
+
+.dynamic-island.type-2-cam-active .facetime-camera-2 {
+  height: 37px;
+  left: 88px;
+  width: 37px;
+}
+
+.dynamic-island.type-2-wallet-card .facetime-camera-2 {
+  height: 37px;
+  left: 88px;
+  width: 37px;
+}
+
+.dynamic-island.type-2-face-ID .facetime-camera-2 {
+  height: 37px;
+  left: 88px;
+  width: 37px;
+}
+
+.dynamic-island.mini .facetime-camera-2 {
+  height: 37px;
+  left: 88px;
+  width: 37px;
+}
+
+.dynamic-island.battery .facetime-camera-2 {
+  height: 37px;
+  left: 88px;
+  width: 37px;
+}
+
+.dynamic-island.type-2-default .facetime-camera-2 {
+  height: 37px;
+  left: 88px;
+  width: 37px;
+}
+
+.dynamic-island.type-2-focus-modes .facetime-camera-2 {
+  height: 37px;
+  left: 88px;
+  width: 37px;
+}
+
+.dynamic-island.type-2-air-drop .facetime-camera-2 {
+  height: 37px;
+  left: 88px;
+  width: 37px;
+}
+
+.dynamic-island.type-2-music-player .facetime-camera-2 {
+  height: 37px;
+  left: 88px;
+  width: 37px;
+}
+
+.dynamic-island.type-2-maps .facetime-camera-2 {
+  height: 37px;
+  left: 88px;
+  width: 37px;
+}
+
+.dynamic-island.type-2-ringer .facetime-camera-2 {
+  height: 37px;
+  left: 88px;
+  width: 37px;
+}
+
+.dynamic-island.type-2-alarm .facetime-camera-2 {
+  height: 37px;
+  left: 88px;
+  width: 37px;
+}
+
+.dynamic-island.expanded .facetime-camera-2 {
+  background-color: var(--system-backgrounddark-baseprimary);
+  border-radius: 100px;
+  height: 37px;
+  left: 88px;
+  overflow: hidden;
+  width: 37px;
+}
+
+.dynamic-island.type-2-mini .facetime-camera-2 {
+  height: 37px;
+  left: 88px;
+  width: 37px;
+}
+
+.dynamic-island.type-2-lock .facetime-camera-2 {
+  background-color: var(--system-backgrounddark-baseprimary);
+  border-radius: 100px;
+  height: 37px;
+  left: 88px;
+  overflow: hidden;
+  width: 37px;
+}
+
+.dynamic-island.compact.type-2-weather .facetime-camera-2 {
+  height: 25px;
+  left: 149px;
+  width: 33px;
+}
+
+.dynamic-island.type-2-mic-active .camera-3 {
+  height: 13px;
+  width: 13px;
+}
+
+.dynamic-island.type-2-screen-recording .camera-3 {
+  height: 13px;
+  width: 13px;
+}
+
+.dynamic-island.type-2-face-time .camera-3 {
+  height: 13px;
+  width: 13px;
+}
+
+.dynamic-island.type-2-silent-alarm .camera-3 {
+  height: 13px;
+  width: 13px;
+}
+
+.dynamic-island.type-2-battery .camera-3 {
+  height: 13px;
+  width: 13px;
+}
+
+.dynamic-island.type-2-airpods-pro .camera-3 {
+  background-color: #111111;
+  border-radius: 100px;
+  height: 13px;
+  left: 12px;
+  top: 12px;
+  width: 13px;
+}
+
+.dynamic-island.type-2-timer .camera-3 {
+  height: 13px;
+  width: 13px;
+}
+
+.dynamic-island.type-2-mic-cam-active .camera-3 {
+  height: 13px;
+  width: 13px;
+}
+
+.dynamic-island.type-2-mobile-call .camera-3 {
+  height: 13px;
+  width: 13px;
+}
+
+.dynamic-island.type-2-cam-active .camera-3 {
+  height: 13px;
+  width: 13px;
+}
+
+.dynamic-island.type-2-wallet-card .camera-3 {
+  height: 13px;
+  width: 13px;
+}
+
+.dynamic-island.type-2-face-ID .camera-3 {
+  height: 13px;
+  width: 13px;
+}
+
+.dynamic-island.mini .camera-3 {
+  height: 13px;
+  width: 13px;
+}
+
+.dynamic-island.battery .camera-3 {
+  height: 13px;
+  width: 13px;
+}
+
+.dynamic-island.type-2-default .camera-3 {
+  height: 13px;
+  width: 13px;
+}
+
+.dynamic-island.type-2-focus-modes .camera-3 {
+  height: 13px;
+  width: 13px;
+}
+
+.dynamic-island.type-2-air-drop .camera-3 {
+  height: 13px;
+  width: 13px;
+}
+
+.dynamic-island.type-2-music-player .camera-3 {
+  height: 13px;
+  width: 13px;
+}
+
+.dynamic-island.type-2-maps .camera-3 {
+  height: 13px;
+  width: 13px;
+}
+
+.dynamic-island.type-2-ringer .camera-3 {
+  height: 13px;
+  width: 13px;
+}
+
+.dynamic-island.type-2-alarm .camera-3 {
+  height: 13px;
+  width: 13px;
+}
+
+.dynamic-island.expanded .camera-3 {
+  background-color: #111111;
+  border-radius: 100px;
+  height: 13px;
+  left: 12px;
+  top: 12px;
+  width: 13px;
+}
+
+.dynamic-island.type-2-mini .camera-3 {
+  height: 13px;
+  width: 13px;
+}
+
+.dynamic-island.type-2-lock .camera-3 {
+  background-color: #111111;
+  border-radius: 100px;
+  height: 13px;
+  left: 12px;
+  top: 12px;
+  width: 13px;
+}
+
+.dynamic-island.compact.type-2-weather .camera-3 {
+  height: 25px;
+  width: 29px;
+}
+
+.dynamic-island.type-2-silent-alarm .compnents {
+  height: 37px;
+  left: 6px;
+  width: 264px;
+}
+
+.dynamic-island.type-2-battery .compnents {
+  align-items: center;
+  display: inline-flex;
+  padding: 0px 8px;
+}
+
+.dynamic-island.type-2-timer .compnents {
+  height: 37px;
+}
+
+.dynamic-island.type-2-mobile-call .compnents {
+  align-items: center;
+  display: inline-flex;
+  gap: 16px;
+  padding: 0px 8px;
+}
+
+.dynamic-island.type-2-ringer .compnents {
+  height: 37px;
+  left: 12px;
+  width: 194px;
+}
+
+.dynamic-island.expanded.type-2-lock .compnents {
+  height: 73px;
+  left: 18px;
+  width: 329px;
+}
+
+.dynamic-island.expanded.type-2-mic-active .compnents {
+  height: 73px;
+  left: 18px;
+  width: 329px;
+}
+
+.dynamic-island.expanded.type-2-screen-recording .compnents {
+  height: 73px;
+  left: 18px;
+  width: 329px;
+}
+
+.dynamic-island.type-2-maps.expanded .compnents {
+  height: 73px;
+  left: 18px;
+  width: 329px;
+}
+
+.dynamic-island.expanded.type-2-alarm .compnents {
+  height: 73px;
+  left: 18px;
+  width: 329px;
+}
+
+.dynamic-island.type-2-mobile-call.expanded .compnents {
+  height: 73px;
+  left: 18px;
+  width: 329px;
+}
+
+.dynamic-island.expanded.type-2-face-time .compnents {
+  height: 73px;
+  left: 18px;
+  width: 329px;
+}
+
+.dynamic-island.type-2-battery.expanded .compnents {
+  height: 73px;
+  left: 18px;
+  width: 329px;
+}
+
+.dynamic-island.type-2-air-drop.expanded .compnents {
+  height: 73px;
+  left: 18px;
+  width: 329px;
+}
+
+.dynamic-island.expanded.type-2-mini .compnents {
+  height: 73px;
+  left: 18px;
+  width: 329px;
+}
+
+.dynamic-island.expanded.type-2-default .compnents {
+  height: 73px;
+  left: 18px;
+  width: 329px;
+}
+
+.dynamic-island.type-2-timer.expanded .compnents {
+  left: 18px;
+  width: 329px;
+}
+
+.dynamic-island.type-2-timer.mini .compnents {
+  left: 8px;
+  width: 260px;
+}
+
+.dynamic-island.compact.type-2-timer .compnents {
+  left: 8px;
+  width: 260px;
+}
+
+.dynamic-island.expanded.type-2-wallet-card .compnents {
+  height: 73px;
+  left: 18px;
+  width: 329px;
+}
+
+.dynamic-island.expanded.type-2-music-player .compnents {
+  height: 73px;
+  left: 18px;
+  width: 329px;
+}
+
+.dynamic-island.type-2-timer.battery .compnents {
+  left: 8px;
+  width: 260px;
+}
+
+.dynamic-island.expanded.type-2-airpods-pro .compnents {
+  height: 73px;
+  left: 18px;
+  width: 329px;
+}
+
+.dynamic-island.type-2-cam-active.expanded .compnents {
+  height: 73px;
+  left: 18px;
+  width: 329px;
+}
+
+.dynamic-island.type-2-face-ID.expanded .compnents {
+  height: 73px;
+  left: 18px;
+  width: 329px;
+}
+
+.dynamic-island.type-2-weather.expanded .compnents {
+  height: 73px;
+  left: 18px;
+  width: 329px;
+}
+
+.dynamic-island.expanded.type-2-mic-cam-active .compnents {
+  height: 73px;
+  left: 18px;
+  width: 329px;
+}
+
+.dynamic-island.type-2-focus-modes.expanded .compnents {
+  height: 73px;
+  left: 18px;
+  width: 329px;
+}
+
+.dynamic-island.type-2-mic-active .charging-text-left {
+  position: absolute;
+}
+
+.dynamic-island.type-2-screen-recording .charging-text-left {
+  position: absolute;
+}
+
+.dynamic-island.type-2-face-time .charging-text-left {
+  position: absolute;
+}
+
+.dynamic-island.type-2-weather .charging-text-left {
+  position: absolute;
+}
+
+.dynamic-island.type-2-silent-alarm .charging-text-left {
+  background-color: #ff3b30;
+  border-radius: 40px;
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 54px;
+}
+
+.dynamic-island.type-2-battery .charging-text-left {
+  height: 22px;
+  position: relative;
+  width: 73px;
+}
+
+.dynamic-island.type-2-airpods-pro .charging-text-left {
+  left: 0;
+  position: absolute;
+}
+
+.dynamic-island.type-2-timer .charging-text-left {
+  background-color: #000000;
+  height: 22px;
+  left: 0;
+  position: absolute;
+  width: 68px;
+}
+
+.dynamic-island.type-2-mic-cam-active .charging-text-left {
+  position: absolute;
+}
+
+.dynamic-island.type-2-mobile-call .charging-text-left {
+  position: absolute;
+}
+
+.dynamic-island.type-2-cam-active .charging-text-left {
+  position: absolute;
+}
+
+.dynamic-island.type-2-wallet-card .charging-text-left {
+  position: absolute;
+}
+
+.dynamic-island.type-2-face-ID .charging-text-left {
+  position: absolute;
+}
+
+.dynamic-island.type-2-default .charging-text-left {
+  position: absolute;
+}
+
+.dynamic-island.type-2-focus-modes .charging-text-left {
+  position: absolute;
+}
+
+.dynamic-island.type-2-air-drop .charging-text-left {
+  position: absolute;
+}
+
+.dynamic-island.type-2-music-player .charging-text-left {
+  position: absolute;
+}
+
+.dynamic-island.type-2-maps .charging-text-left {
+  position: absolute;
+}
+
+.dynamic-island.type-2-ringer .charging-text-left {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 19px;
+}
+
+.dynamic-island.type-2-alarm .charging-text-left {
+  position: absolute;
+}
+
+.dynamic-island.expanded .charging-text-left {
+  align-items: center;
+  box-shadow: 0px 8px 16px #00000040;
+  display: inline-flex;
+  gap: 196px;
+}
+
+.dynamic-island.type-2-mini .charging-text-left {
+  position: absolute;
+}
+
+.dynamic-island.type-2-lock .charging-text-left {
+  position: absolute;
+}
+
+.dynamic-island.expanded.type-2-lock .charging-text-left {
+  border-radius: 69px;
+  top: 9px;
+}
+
+.dynamic-island.expanded.type-2-mic-active .charging-text-left {
+  border-radius: 69px;
+  top: 9px;
+}
+
+.dynamic-island.expanded.type-2-screen-recording .charging-text-left {
+  border-radius: 69px;
+  top: 9px;
+}
+
+.dynamic-island.type-2-maps.expanded .charging-text-left {
+  border-radius: 69px;
+  top: 9px;
+}
+
+.dynamic-island.expanded.type-2-alarm .charging-text-left {
+  border-radius: 69px;
+  top: 9px;
+}
+
+.dynamic-island.type-2-mobile-call.expanded .charging-text-left {
+  border-radius: 69px;
+  top: 9px;
+}
+
+.dynamic-island.expanded.type-2-face-time .charging-text-left {
+  border-radius: 69px;
+  top: 9px;
+}
+
+.dynamic-island.type-2-battery.expanded .charging-text-left {
+  border-radius: 69px;
+  top: 9px;
+}
+
+.dynamic-island.type-2-air-drop.expanded .charging-text-left {
+  border-radius: 69px;
+  top: 9px;
+}
+
+.dynamic-island.type-2-ringer.expanded .charging-text-left {
+  border-radius: 69px;
+}
+
+.dynamic-island.expanded.type-2-mini .charging-text-left {
+  border-radius: 69px;
+  top: 9px;
+}
+
+.dynamic-island.expanded.type-2-default .charging-text-left {
+  border-radius: 69px;
+  top: 9px;
+}
+
+.dynamic-island.type-2-timer.expanded .charging-text-left {
+  border-radius: 69px;
+  top: 9px;
+}
+
+.dynamic-island.type-2-timer.mini .charging-text-left {
+  top: 7px;
+}
+
+.dynamic-island.compact.type-2-timer .charging-text-left {
+  top: 7px;
+}
+
+.dynamic-island.expanded.type-2-wallet-card .charging-text-left {
+  border-radius: 69px;
+  top: 9px;
+}
+
+.dynamic-island.expanded.type-2-music-player .charging-text-left {
+  border-radius: 69px;
+  top: 9px;
+}
+
+.dynamic-island.type-2-timer.battery .charging-text-left {
+  top: 7px;
+}
+
+.dynamic-island.expanded.type-2-airpods-pro .charging-text-left {
+  border-radius: 69px;
+  top: 9px;
+}
+
+.dynamic-island.type-2-cam-active.expanded .charging-text-left {
+  border-radius: 69px;
+  top: 9px;
+}
+
+.dynamic-island.type-2-face-ID.expanded .charging-text-left {
+  border-radius: 69px;
+  top: 9px;
+}
+
+.dynamic-island.type-2-weather.expanded .charging-text-left {
+  border-radius: 69px;
+  top: 9px;
+}
+
+.dynamic-island.expanded.type-2-mic-cam-active .charging-text-left {
+  border-radius: 69px;
+  top: 9px;
+}
+
+.dynamic-island.type-2-focus-modes.expanded .charging-text-left {
+  border-radius: 69px;
+  top: 9px;
+}
+
+.dynamic-island.type-2-mic-active .charging {
+  font-size: 14.5px;
+  top: -1px;
+}
+
+.dynamic-island.type-2-screen-recording .charging {
+  font-size: 14.5px;
+  top: -1px;
+}
+
+.dynamic-island.type-2-face-time .charging {
+  font-size: 14.5px;
+  top: -1px;
+}
+
+.dynamic-island.type-2-weather .charging {
+  font-size: 14.5px;
+  top: -1px;
+}
+
+.dynamic-island.type-2-silent-alarm .charging {
+  font-size: 14.5px;
+  top: -1px;
+}
+
+.dynamic-island.type-2-battery .charging {
+  font-size: 14.5px;
+  top: -1px;
+  width: 73px;
+}
+
+.dynamic-island.type-2-airpods-pro .charging {
+  font-size: 14.5px;
+  top: -1px;
+}
+
+.dynamic-island.type-2-timer .charging {
+  font-size: 14.5px;
+  top: -1px;
+}
+
+.dynamic-island.type-2-mic-cam-active .charging {
+  font-size: 14.5px;
+  top: -1px;
+}
+
+.dynamic-island.type-2-cam-active .charging {
+  font-size: 14.5px;
+  top: -1px;
+}
+
+.dynamic-island.type-2-mobile-call .charging {
+  font-size: 14.5px;
+  top: -1px;
+}
+
+.dynamic-island.type-2-wallet-card .charging {
+  font-size: 14.5px;
+  top: -1px;
+}
+
+.dynamic-island.type-2-face-ID .charging {
+  font-size: 14.5px;
+  top: -1px;
+}
+
+.dynamic-island.type-2-default .charging {
+  font-size: 14.5px;
+  top: -1px;
+}
+
+.dynamic-island.type-2-focus-modes .charging {
+  font-size: 14.5px;
+  top: -1px;
+}
+
+.dynamic-island.type-2-air-drop .charging {
+  font-size: 14.5px;
+  top: -1px;
+}
+
+.dynamic-island.type-2-music-player .charging {
+  font-size: 14.5px;
+  top: -1px;
+}
+
+.dynamic-island.type-2-maps .charging {
+  font-size: 14.5px;
+  top: -1px;
+}
+
+.dynamic-island.type-2-ringer .charging {
+  font-size: 15px;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dynamic-island.type-2-alarm .charging {
+  font-size: 14.5px;
+  top: -1px;
+}
+
+.dynamic-island.type-2-mini .charging {
+  font-size: 14.5px;
+  top: -1px;
+}
+
+.dynamic-island.type-2-lock .charging {
+  font-size: 14.5px;
+  top: -1px;
+}
+
+.dynamic-island.type-2-mic-active .img-6 {
+  height: 17px;
+  left: 19px;
+  top: 3px;
+  width: 16px;
+}
+
+.dynamic-island.type-2-screen-recording .img-6 {
+  height: 17px;
+  left: 19px;
+  top: 3px;
+  width: 16px;
+}
+
+.dynamic-island.type-2-face-time .img-6 {
+  height: 17px;
+  left: 19px;
+  top: 3px;
+  width: 16px;
+}
+
+.dynamic-island.type-2-weather .img-6 {
+  height: 17px;
+  left: 19px;
+  top: 3px;
+  width: 16px;
+}
+
+.dynamic-island.type-2-silent-alarm .img-6 {
+  height: 17px;
+  left: 19px;
+  top: 3px;
+  width: 16px;
+}
+
+.dynamic-island.type-2-battery .img-6 {
+  height: 17px;
+  left: 19px;
+  top: 3px;
+  width: 16px;
+}
+
+.dynamic-island.type-2-airpods-pro .img-6 {
+  height: 17px;
+  left: 19px;
+  top: 3px;
+  width: 16px;
+}
+
+.dynamic-island.type-2-timer .img-6 {
+  height: 22px;
+  left: 22px;
+  top: 0;
+  width: 22px;
+}
+
+.dynamic-island.type-2-mic-cam-active .img-6 {
+  height: 17px;
+  left: 19px;
+  top: 3px;
+  width: 16px;
+}
+
+.dynamic-island.type-2-cam-active .img-6 {
+  height: 17px;
+  left: 19px;
+  top: 3px;
+  width: 16px;
+}
+
+.dynamic-island.type-2-mobile-call .img-6 {
+  height: 17px;
+  left: 19px;
+  top: 3px;
+  width: 16px;
+}
+
+.dynamic-island.type-2-wallet-card .img-6 {
+  height: 17px;
+  left: 19px;
+  top: 3px;
+  width: 16px;
+}
+
+.dynamic-island.type-2-face-ID .img-6 {
+  height: 17px;
+  left: 19px;
+  top: 3px;
+  width: 16px;
+}
+
+.dynamic-island.type-2-default .img-6 {
+  height: 17px;
+  left: 19px;
+  top: 3px;
+  width: 16px;
+}
+
+.dynamic-island.type-2-focus-modes .img-6 {
+  height: 17px;
+  left: 19px;
+  top: 3px;
+  width: 16px;
+}
+
+.dynamic-island.type-2-air-drop .img-6 {
+  height: 17px;
+  left: 19px;
+  top: 3px;
+  width: 16px;
+}
+
+.dynamic-island.type-2-music-player .img-6 {
+  height: 17px;
+  left: 19px;
+  top: 3px;
+  width: 16px;
+}
+
+.dynamic-island.type-2-maps .img-6 {
+  height: 17px;
+  left: 19px;
+  top: 3px;
+  width: 16px;
+}
+
+.dynamic-island.type-2-ringer .img-6 {
+  height: 17px;
+  left: 19px;
+  top: 3px;
+  width: 16px;
+}
+
+.dynamic-island.type-2-alarm .img-6 {
+  height: 17px;
+  left: 19px;
+  top: 3px;
+  width: 16px;
+}
+
+.dynamic-island.type-2-mini .img-6 {
+  height: 17px;
+  left: 19px;
+  top: 3px;
+  width: 16px;
+}
+
+.dynamic-island.type-2-lock .img-6 {
+  height: 17px;
+  left: 19px;
+  top: 3px;
+  width: 16px;
+}
+
+.dynamic-island.type-2-mic-active .group-7 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-screen-recording .group-7 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-face-time .group-7 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-weather .group-7 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-silent-alarm .group-7 {
+  left: 70px;
+  position: absolute;
+  top: 0;
+}
+
+.dynamic-island.type-2-battery .group-7 {
+  position: relative;
+}
+
+.dynamic-island.type-2-airpods-pro .group-7 {
+  position: absolute;
+  top: 0;
+}
+
+.dynamic-island.type-2-timer .group-7 {
+  position: absolute;
+  top: 0;
+}
+
+.dynamic-island.type-2-mic-cam-active .group-7 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-mobile-call .group-7 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-cam-active .group-7 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-wallet-card .group-7 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-face-ID .group-7 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-default .group-7 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-focus-modes .group-7 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-air-drop .group-7 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-music-player .group-7 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-maps .group-7 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-ringer .group-7 {
+  left: 34px;
+  position: absolute;
+  top: 0;
+}
+
+.dynamic-island.type-2-alarm .group-7 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-mini .group-7 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-lock .group-7 {
+  position: absolute;
+}
+
+.dynamic-island.expanded.type-2-lock .group-7 {
+  left: 102px;
+}
+
+.dynamic-island.expanded.type-2-mic-active .group-7 {
+  left: 102px;
+}
+
+.dynamic-island.expanded.type-2-screen-recording .group-7 {
+  left: 102px;
+}
+
+.dynamic-island.type-2-maps.expanded .group-7 {
+  left: 102px;
+}
+
+.dynamic-island.expanded.type-2-alarm .group-7 {
+  left: 102px;
+}
+
+.dynamic-island.type-2-mobile-call.expanded .group-7 {
+  left: 102px;
+}
+
+.dynamic-island.expanded.type-2-face-time .group-7 {
+  left: 102px;
+}
+
+.dynamic-island.type-2-battery.expanded .group-7 {
+  left: 102px;
+}
+
+.dynamic-island.type-2-air-drop.expanded .group-7 {
+  left: 102px;
+}
+
+.dynamic-island.expanded.type-2-mini .group-7 {
+  left: 102px;
+}
+
+.dynamic-island.expanded.type-2-default .group-7 {
+  left: 102px;
+}
+
+.dynamic-island.type-2-timer.expanded .group-7 {
+  left: 102px;
+}
+
+.dynamic-island.type-2-timer.mini .group-7 {
+  left: 68px;
+}
+
+.dynamic-island.compact.type-2-timer .group-7 {
+  left: 68px;
+}
+
+.dynamic-island.expanded.type-2-wallet-card .group-7 {
+  left: 102px;
+}
+
+.dynamic-island.expanded.type-2-music-player .group-7 {
+  left: 102px;
+}
+
+.dynamic-island.type-2-timer.battery .group-7 {
+  left: 68px;
+}
+
+.dynamic-island.expanded.type-2-airpods-pro .group-7 {
+  left: 102px;
+}
+
+.dynamic-island.type-2-cam-active.expanded .group-7 {
+  left: 102px;
+}
+
+.dynamic-island.type-2-face-ID.expanded .group-7 {
+  left: 102px;
+}
+
+.dynamic-island.type-2-weather.expanded .group-7 {
+  left: 102px;
+}
+
+.dynamic-island.expanded.type-2-mic-cam-active .group-7 {
+  left: 102px;
+}
+
+.dynamic-island.type-2-focus-modes.expanded .group-7 {
+  left: 102px;
+}
+
+.dynamic-island.type-2-mic-active .charging-icon-right-2 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-screen-recording .charging-icon-right-2 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-face-time .charging-icon-right-2 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-weather .charging-icon-right-2 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-silent-alarm .charging-icon-right-2 {
+  height: 24px;
+  left: 210px;
+  position: absolute;
+  top: 6px;
+  width: 54px;
+}
+
+.dynamic-island.type-2-battery .charging-icon-right-2 {
+  height: 22px;
+  position: relative;
+  width: 73px;
+}
+
+.dynamic-island.type-2-airpods-pro .charging-icon-right-2 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-timer .charging-icon-right-2 {
+  height: 22px;
+  position: absolute;
+  width: 70px;
+}
+
+.dynamic-island.type-2-mic-cam-active .charging-icon-right-2 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-mobile-call .charging-icon-right-2 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-cam-active .charging-icon-right-2 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-wallet-card .charging-icon-right-2 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-face-ID .charging-icon-right-2 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-default .charging-icon-right-2 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-focus-modes .charging-icon-right-2 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-air-drop .charging-icon-right-2 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-music-player .charging-icon-right-2 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-maps .charging-icon-right-2 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-ringer .charging-icon-right-2 {
+  color: #ffffff;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 158px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.dynamic-island.type-2-alarm .charging-icon-right-2 {
+  position: absolute;
+}
+
+.dynamic-island.expanded .charging-icon-right-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 6.41px;
+}
+
+.dynamic-island.type-2-mini .charging-icon-right-2 {
+  position: absolute;
+}
+
+.dynamic-island.type-2-lock .charging-icon-right-2 {
+  position: absolute;
+}
+
+.dynamic-island.expanded.type-2-lock .charging-icon-right-2 {
+  left: 62px;
+  top: 37px;
+}
+
+.dynamic-island.expanded.type-2-mic-active .charging-icon-right-2 {
+  left: 62px;
+  top: 37px;
+}
+
+.dynamic-island.expanded.type-2-screen-recording .charging-icon-right-2 {
+  left: 62px;
+  top: 37px;
+}
+
+.dynamic-island.type-2-maps.expanded .charging-icon-right-2 {
+  left: 62px;
+  top: 37px;
+}
+
+.dynamic-island.expanded.type-2-alarm .charging-icon-right-2 {
+  left: 62px;
+  top: 37px;
+}
+
+.dynamic-island.type-2-mobile-call.expanded .charging-icon-right-2 {
+  left: 62px;
+  top: 37px;
+}
+
+.dynamic-island.expanded.type-2-face-time .charging-icon-right-2 {
+  left: 62px;
+  top: 37px;
+}
+
+.dynamic-island.type-2-battery.expanded .charging-icon-right-2 {
+  left: 62px;
+  top: 37px;
+}
+
+.dynamic-island.type-2-air-drop.expanded .charging-icon-right-2 {
+  left: 62px;
+  top: 37px;
+}
+
+.dynamic-island.expanded.type-2-mini .charging-icon-right-2 {
+  left: 62px;
+  top: 37px;
+}
+
+.dynamic-island.expanded.type-2-default .charging-icon-right-2 {
+  left: 62px;
+  top: 37px;
+}
+
+.dynamic-island.type-2-timer.expanded .charging-icon-right-2 {
+  left: 62px;
+  top: 37px;
+}
+
+.dynamic-island.type-2-timer.mini .charging-icon-right-2 {
+  left: 192px;
+  top: 8px;
+}
+
+.dynamic-island.compact.type-2-timer .charging-icon-right-2 {
+  left: 192px;
+  top: 8px;
+}
+
+.dynamic-island.expanded.type-2-wallet-card .charging-icon-right-2 {
+  left: 62px;
+  top: 37px;
+}
+
+.dynamic-island.expanded.type-2-music-player .charging-icon-right-2 {
+  left: 62px;
+  top: 37px;
+}
+
+.dynamic-island.type-2-timer.battery .charging-icon-right-2 {
+  left: 192px;
+  top: 8px;
+}
+
+.dynamic-island.expanded.type-2-airpods-pro .charging-icon-right-2 {
+  left: 62px;
+  top: 37px;
+}
+
+.dynamic-island.type-2-cam-active.expanded .charging-icon-right-2 {
+  left: 62px;
+  top: 37px;
+}
+
+.dynamic-island.type-2-face-ID.expanded .charging-icon-right-2 {
+  left: 62px;
+  top: 37px;
+}
+
+.dynamic-island.type-2-weather.expanded .charging-icon-right-2 {
+  left: 62px;
+  top: 37px;
+}
+
+.dynamic-island.expanded.type-2-mic-cam-active .charging-icon-right-2 {
+  left: 62px;
+  top: 37px;
+}
+
+.dynamic-island.type-2-focus-modes.expanded .charging-icon-right-2 {
+  left: 62px;
+  top: 37px;
+}
+
+.dynamic-island.expanded .frame-368 {
+  color: #888888;
+  font-family: "SF Pro Text-Medium", Helvetica;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: -0.24px;
+  line-height: 10.5px;
+  margin-top: -0.58px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dynamic-island.compact .frame-368 {
+  background-color: #3f6d34;
+  border-radius: 7px;
+  height: 17px;
+  left: 38px;
+  position: absolute;
+  top: 3px;
+  width: 32px;
+}
+
+.dynamic-island.expanded .element-4 {
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: -0.24px;
+  line-height: 10.5px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.dynamic-island.compact .element-4 {
+  color: #8deb92;
+  font-size: 15px;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: right;
+  top: 0;
+}
+
+.dynamic-island.type-2-mic-active .silent {
+  color: #ff3b30;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 15px;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.dynamic-island.type-2-screen-recording .silent {
+  color: #ff3b30;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 15px;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.dynamic-island.type-2-face-time .silent {
+  color: #ff3b30;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 15px;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.dynamic-island.type-2-weather .silent {
+  color: #ff3b30;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 15px;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.dynamic-island.type-2-silent-alarm .silent {
+  color: #ff3b30;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 15px;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.dynamic-island.type-2-battery .silent {
+  color: #ff3b30;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 15px;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.dynamic-island.type-2-airpods-pro .silent {
+  color: #ff3b30;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 15px;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.dynamic-island.type-2-timer .silent {
+  color: #e58d40;
+  font-family: "SF Pro Rounded-Regular", Helvetica;
+  font-size: 19px;
+  left: 0;
+  letter-spacing: 0.06px;
+  line-height: normal;
+  width: 68px;
+}
+
+.dynamic-island.type-2-mic-cam-active .silent {
+  color: #ff3b30;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 15px;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.dynamic-island.type-2-cam-active .silent {
+  color: #ff3b30;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 15px;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.dynamic-island.type-2-mobile-call .silent {
+  color: #ff3b30;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 15px;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.dynamic-island.type-2-wallet-card .silent {
+  color: #ff3b30;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 15px;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.dynamic-island.type-2-face-ID .silent {
+  color: #ff3b30;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 15px;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.dynamic-island.type-2-default .silent {
+  color: #ff3b30;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 15px;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.dynamic-island.type-2-focus-modes .silent {
+  color: #ff3b30;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 15px;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.dynamic-island.type-2-air-drop .silent {
+  color: #ff3b30;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 15px;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.dynamic-island.type-2-music-player .silent {
+  color: #ff3b30;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 15px;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.dynamic-island.type-2-maps .silent {
+  color: #ff3b30;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 15px;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.dynamic-island.type-2-ringer .silent {
+  color: #ff3b30;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 15px;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.dynamic-island.type-2-alarm .silent {
+  color: #ff3b30;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 15px;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.dynamic-island.type-2-mini .silent {
+  color: #ff3b30;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 15px;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.dynamic-island.type-2-lock .silent {
+  color: #ff3b30;
+  font-family: "SF Pro Text-Regular", Helvetica;
+  font-size: 15px;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.dynamic-island.type-2-screen-recording .background {
+  border-radius: 100px;
+}
+
+.dynamic-island.type-2-timer .background {
+  border-radius: 100px;
+}
+
+.dynamic-island.type-2-mobile-call .background {
+  border-radius: 100px;
+}
+
+.dynamic-island.type-2-focus-modes .background {
+  border-radius: 18px;
+}
+
+.dynamic-island.mini .components {
+  height: 37px;
+  left: 0;
+  top: 0;
+  width: 168px;
+}
+
+.dynamic-island.compact .components {
+  height: 22px;
+  left: 155px;
+  top: 8px;
+  width: 22px;
+}
+
+.dynamic-island.type-2-mic-active .ellipse-14 {
+  align-items: center;
+  background-color: var(--open-system-colorsorangelight);
+  border-radius: 3px;
+  gap: 4px;
+  height: 6px;
+  left: 81px;
+  top: 15px;
+  width: 6px;
+}
+
+.dynamic-island.type-2-screen-recording .ellipse-14 {
+  align-items: center;
+  background-color: var(--open-system-colorsgreenlight);
+  border-radius: 3px;
+  gap: 4px;
+  left: 81px;
+  top: 15px;
+}
+
+.dynamic-island.type-2-face-time .ellipse-14 {
+  align-items: center;
+  background-color: var(--open-system-colorsgreenlight);
+  border-radius: 3px;
+  gap: 4px;
+  left: 81px;
+  top: 15px;
+}
+
+.dynamic-island.type-2-weather .ellipse-14 {
+  align-items: center;
+  background-color: var(--open-system-colorsgreenlight);
+  border-radius: 3px;
+  gap: 4px;
+  left: 81px;
+  top: 15px;
+}
+
+.dynamic-island.type-2-silent-alarm .ellipse-14 {
+  align-items: center;
+  background-color: var(--open-system-colorsgreenlight);
+  border-radius: 3px;
+  gap: 4px;
+  left: 81px;
+  top: 15px;
+}
+
+.dynamic-island.type-2-battery .ellipse-14 {
+  align-items: center;
+  background-color: var(--open-system-colorsgreenlight);
+  border-radius: 3px;
+  gap: 4px;
+  left: 81px;
+  top: 15px;
+}
+
+.dynamic-island.type-2-airpods-pro .ellipse-14 {
+  align-items: center;
+  background-color: var(--open-system-colorsgreenlight);
+  border-radius: 3px;
+  gap: 4px;
+  left: 81px;
+  top: 15px;
+}
+
+.dynamic-island.type-2-timer .ellipse-14 {
+  align-items: center;
+  background-color: var(--open-system-colorsgreenlight);
+  border-radius: 3px;
+  gap: 4px;
+  left: 81px;
+  top: 15px;
+}
+
+.dynamic-island.type-2-mic-cam-active .ellipse-14 {
+  align-items: center;
+  background-color: var(--open-system-colorsgreenlight);
+  border-radius: 3px;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 4px;
+  justify-content: center;
+  left: 81px;
+  top: 10px;
+}
+
+.dynamic-island.type-2-mobile-call .ellipse-14 {
+  align-items: center;
+  background-color: var(--open-system-colorsgreenlight);
+  border-radius: 3px;
+  gap: 4px;
+  left: 81px;
+  top: 15px;
+}
+
+.dynamic-island.type-2-cam-active .ellipse-14 {
+  align-items: center;
+  background-color: var(--open-system-colorsgreenlight);
+  border-radius: 3px;
+  gap: 4px;
+  height: 6px;
+  left: 81px;
+  top: 15px;
+  width: 6px;
+}
+
+.dynamic-island.type-2-wallet-card .ellipse-14 {
+  align-items: center;
+  background-color: var(--open-system-colorsgreenlight);
+  border-radius: 3px;
+  gap: 4px;
+  left: 81px;
+  top: 15px;
+}
+
+.dynamic-island.type-2-face-ID .ellipse-14 {
+  align-items: center;
+  background-color: var(--open-system-colorsgreenlight);
+  border-radius: 3px;
+  gap: 4px;
+  left: 81px;
+  top: 15px;
+}
+
+.dynamic-island.battery .ellipse-14 {
+  display: inline-flex;
+  flex-direction: column;
+}
+
+.dynamic-island.type-2-default .ellipse-14 {
+  align-items: center;
+  background-color: var(--open-system-colorsgreenlight);
+  border-radius: 3px;
+  gap: 4px;
+  left: 81px;
+  top: 15px;
+}
+
+.dynamic-island.type-2-focus-modes .ellipse-14 {
+  align-items: center;
+  background-color: var(--open-system-colorsgreenlight);
+  border-radius: 3px;
+  gap: 4px;
+  left: 81px;
+  top: 15px;
+}
+
+.dynamic-island.type-2-air-drop .ellipse-14 {
+  align-items: center;
+  background-color: var(--open-system-colorsgreenlight);
+  border-radius: 3px;
+  gap: 4px;
+  left: 81px;
+  top: 15px;
+}
+
+.dynamic-island.type-2-music-player .ellipse-14 {
+  align-items: center;
+  background-color: var(--open-system-colorsgreenlight);
+  border-radius: 3px;
+  gap: 4px;
+  left: 81px;
+  top: 15px;
+}
+
+.dynamic-island.type-2-maps .ellipse-14 {
+  align-items: center;
+  background-color: var(--open-system-colorsgreenlight);
+  border-radius: 3px;
+  gap: 4px;
+  left: 81px;
+  top: 15px;
+}
+
+.dynamic-island.type-2-ringer .ellipse-14 {
+  align-items: center;
+  background-color: var(--open-system-colorsgreenlight);
+  border-radius: 3px;
+  gap: 4px;
+  left: 81px;
+  top: 15px;
+}
+
+.dynamic-island.type-2-alarm .ellipse-14 {
+  align-items: center;
+  background-color: var(--open-system-colorsgreenlight);
+  border-radius: 3px;
+  gap: 4px;
+  left: 81px;
+  top: 15px;
+}
+
+.dynamic-island.type-2-mini .ellipse-14 {
+  align-items: flex-start;
+  background-color: #000000;
+  border-radius: 18px;
+  gap: 10px;
+  left: 133px;
+  overflow: hidden;
+  padding: 7px;
+  top: 0;
+}
+
+.dynamic-island.type-2-lock .ellipse-14 {
+  align-items: center;
+  background-color: var(--open-system-colorsgreenlight);
+  border-radius: 3px;
+  gap: 4px;
+  left: 81px;
+  top: 15px;
+}
