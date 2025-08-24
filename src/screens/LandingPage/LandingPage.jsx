@@ -86,7 +86,7 @@ export const LandingPage = () => {
         <div className="hero-section">
           <div className="left-side-2">
             <div className="headline-subheadline">
-              <p className="p">Take control of your digital assets</p>
+              <p className="p">Crypto for today & tomorrow</p>
 
               <p className="text-wrapper-49">
                 With Bramp, you’re in charge — buy, sell, and trade crypto and
