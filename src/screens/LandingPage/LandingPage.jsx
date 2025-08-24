@@ -89,8 +89,7 @@ export const LandingPage = () => {
               <p className="p">Take control of your digital assets</p>
 
               <p className="text-wrapper-49">
-                With Bramp, you’re in charge — buy, sell, and trade crypto and
-                gift cards on your own terms, securely and instantly.
+                Buy and Sell Crypto with Bramp AI Agent on Whatsapp & Mobile App.
               </p>
 
               <div className="frame-20">
