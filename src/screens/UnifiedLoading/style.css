@@ -1,16 +1,16 @@
 .unified-loading {
   align-items: center;
   /* Use original green background */
-  background-color: var(--tokens-primary-button);
+  background-color: #00B307;
   display: flex;
   flex-direction: column;
-  gap: 32px;
   height: 100vh;
   justify-content: center;
   left: 0;
   position: absolute;
   top: 0;
   width: 100%;
+  overflow: hidden;
 }
 
 .unified-loading .logo-wrap {
@@ -22,8 +22,8 @@
 }
 
 @keyframes pulse {
-  0%, 100% { transform: scale(1); }
-  50% { transform: scale(1.06); }
+  0%, 100% { transform: scale(1) translateZ(0); }
+  50% { transform: scale(1.06) translateZ(0); }
 }
 
 .unified-loading .ticker {
@@ -34,7 +34,7 @@
 }
 
 .unified-loading .tick {
-  background-color: var(--tokens-white-duplicate);
+  background-color: #ffffff;
   height: 6px;
   width: 56px;
   opacity: 0.35;
@@ -47,8 +47,8 @@
 .unified-loading .tick-4 { animation-delay: 450ms; }
 
 @keyframes tick-flash {
-  0%, 100% { opacity: 0.35; }
-  50% { opacity: 1; }
+  0%, 100% { opacity: 0.35; transform: translateZ(0); }
+  50% { opacity: 1; transform: translateZ(0); }
 }
 
 

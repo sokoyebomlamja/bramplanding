@@ -11,16 +11,16 @@ import { LoadingScreenWrapper } from "./screens/LoadingScreenWrapper";
 
 const router = createBrowserRouter([
   {
-    path: "/*",
-    element: <UnifiedLoading />,
-  },
-  {
     path: "/loading-screen-1",
     element: <LoadingScreen />,
   },
   {
     path: "/",
     element: <LandingPageResponsive />,
+  },
+  {
+    path: "*",
+    element: <UnifiedLoading />,
   },
   {
     path: "/loading-screen-2",

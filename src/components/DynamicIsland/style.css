@@ -47,7 +47,7 @@
 }
 
 .dynamic-island .vector-wrapper {
-  background-image: url(../../../static/img/vector-15.png);
+  background-image: url(/img/vector-15.png);
   background-size: 100% 100%;
   height: 45px;
   left: 0;
@@ -342,7 +342,7 @@
 }
 
 .dynamic-island .overlap-group-2 {
-  background-image: url(../../../static/img/vector-18.png);
+  background-image: url(/img/vector-18.png);
   background-size: 100% 100%;
   height: 45px;
   left: 0;
@@ -1198,7 +1198,7 @@
 }
 
 .dynamic-island .airpods-pro-left {
-  background-image: url(../../../static/img/ellipse-29-1.png);
+  background-image: url(/img/ellipse-29-1.png);
   background-size: 100% 100%;
   height: 22px;
   left: 8px;
@@ -1592,7 +1592,7 @@
 }
 
 .dynamic-island .overlap-group-9 {
-  background-image: url(../../../static/img/ellipse-34.png);
+  background-image: url(/img/ellipse-34.png);
   background-size: 100% 100%;
   border: 4.42px solid;
   border-color: #13351f;

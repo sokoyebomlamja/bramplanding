@@ -13,7 +13,7 @@
 }
 
 .coin-cardano .coin {
-  background-image: url(../../../static/img/coin-4.png);
+  background-image: url(/img/coin-4.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 120px;
@@ -33,7 +33,7 @@
 }
 
 .coin-cardano .icon-mask-wrapper {
-  background-image: url(../../../static/img/icon-4.png);
+  background-image: url(/img/icon-4.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 120px;

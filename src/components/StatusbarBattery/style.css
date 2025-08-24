@@ -108,7 +108,7 @@
 }
 
 .statusbar-battery .charging-false.dark-mode-2-true {
-  background-image: url(../../../static/img/outline-9.png);
+  background-image: url(/img/outline-9.png);
 }
 
 .statusbar-battery .charging-false.variable {
@@ -117,32 +117,32 @@
 }
 
 .statusbar-battery .dark-mode-2-false.charging-true.seventy {
-  background-image: url(../../../static/img/subtract.png);
+  background-image: url(/img/subtract.png);
 }
 
 .statusbar-battery .charging-true.dark-mode-2-true.seventy {
-  background-image: url(../../../static/img/subtract-2.png);
+  background-image: url(/img/subtract-2.png);
 }
 
 .statusbar-battery .charging-false.dark-mode-2-false.percentage-false {
-  background-image: url(../../../static/img/outline-5.png);
+  background-image: url(/img/outline-5.png);
 }
 
 .statusbar-battery .dark-mode-2-false.charging-true.percentage-true.variable {
-  background-image: url(../../../static/img/outline-8.png);
+  background-image: url(/img/outline-8.png);
 }
 
 .statusbar-battery .charging-true.dark-mode-2-true.percentage-true.one-hundred {
-  background-image: url(../../../static/img/outline-11.png);
+  background-image: url(/img/outline-11.png);
 }
 
 .statusbar-battery
   .dark-mode-2-false.charging-true.percentage-true.one-hundred {
-  background-image: url(../../../static/img/outline-8.png);
+  background-image: url(/img/outline-8.png);
 }
 
 .statusbar-battery .charging-true.dark-mode-2-true.percentage-true.variable {
-  background-image: url(../../../static/img/outline-11.png);
+  background-image: url(/img/outline-11.png);
 }
 
 .statusbar-battery .overlap-group.one-hundred .fill {

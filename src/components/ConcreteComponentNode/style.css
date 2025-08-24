@@ -388,7 +388,7 @@
 
 .concrete-component-node.icons-1-activity {
   aspect-ratio: 1;
-  background-image: url(../../../static/img/activity.png);
+  background-image: url(/img/activity.png);
   background-size: 100% 100%;
   height: 18px;
   left: 154px;
@@ -397,7 +397,7 @@
 }
 
 .concrete-component-node.icons-1-asterics {
-  background-image: url(../../../static/img/asterics-1.png);
+  background-image: url(/img/asterics-1.png);
   background-size: 100% 100%;
   height: 10px;
   left: 430px;
@@ -501,7 +501,7 @@
 
 .concrete-component-node.icons-1-good {
   aspect-ratio: 1;
-  background-image: url(../../../static/img/good.png);
+  background-image: url(/img/good.png);
   background-size: 100% 100%;
   height: 24px;
   left: 286px;
@@ -522,7 +522,7 @@
 }
 
 .concrete-component-node.icons-1-naira {
-  background-image: url(../../../static/img/currency-naira-ngn-1.png);
+  background-image: url(/img/currency-naira-ngn-1.png);
   background-size: 100% 100%;
   height: 16px;
   left: 464px;

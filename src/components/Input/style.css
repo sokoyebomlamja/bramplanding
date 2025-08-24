@@ -33,7 +33,7 @@
 }
 
 .input .icons-instance {
-  background-image: url(../../../static/img/asterics.png) !important;
+  background-image: url(/img/asterics.png) !important;
   left: unset !important;
   top: unset !important;
 }
