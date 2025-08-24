@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 import { Logo } from "../../components/Logo";
 import "./style.css";
 
-const ANIMATION_DURATION_MS = 5000;
+const ANIMATION_DURATION_MS = 1200;
 
 export const UnifiedLoading = () => {
   const navigate = useNavigate();
