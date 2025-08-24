@@ -68,8 +68,7 @@ export const LandingPageMobile = () => {
               </p>
 
               <p className="text-wrapper-144">
-                With Bramp, you’re in charge — buy, sell, and trade crypto and
-                gift cards on your own terms, securely and instantly.
+              Buy and Sell Crypto with Bramp AI Agent on Whatsapp & Mobile App.
               </p>
 
               <div className="frame-191">
@@ -90,12 +89,11 @@ export const LandingPageMobile = () => {
                 <div className="button-main-12">
                   <IOs
                     className="design-component-instance-node-8"
-                    iOs="/img/ios-3.png"
+                    iOs="/img/Whatsapplogo.png"
                   />
                   <div className="frame-193">
-                    <div className="text-wrapper-146">Download on the</div>
-
-                    <div className="text-wrapper-147">App Store</div>
+                    <div className="download-on-the">Use</div>
+                    <div className="app-store">Bramp AI Now</div>
                   </div>
                 </div>
               </div>
@@ -104,12 +102,13 @@ export const LandingPageMobile = () => {
                 <div className="button-main-13">
                   <PlayStore
                     className="design-component-instance-node-8"
-                    playStore="/img/play-store-1.png"
+                    playStore="/img/vector-74.png"
+                    alt="Bramp logo"
                   />
                   <div className="frame-193">
-                    <div className="download-on-the-2">Get it on</div>
+                    <div className="download-on-the-2">Install our</div>
 
-                    <div className="text-wrapper-148">Google Play</div>
+                    <div className="text-wrapper-148">Bramp App</div>
                   </div>
                 </div>
               </div>
@@ -119,8 +118,8 @@ export const LandingPageMobile = () => {
           <div className="left-side-9">
             <img
               className="free-iphone-pro-2"
-              alt="Free iphone pro"
-              src="/img/free-iphone-15-pro-hand-mockup-mockuuups-studio.png"
+              alt="Hero section hand"
+              src="/img/Herosechand1.svg"
             />
           </div>
         </div>

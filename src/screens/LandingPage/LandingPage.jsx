@@ -110,8 +110,10 @@ export const LandingPage = () => {
               <Btn
                 buttonMainClassName="btn-2"
                 className="design-component-instance-node-3"
-                iOsIOs="/img/ios-3-2x.png"
+                iOsIOs="/img/Whatsapplogo.png"
                 property1="default"
+                text="Use"
+                text1="Bramp AI Now" 
               />
               <Btn
                 buttonMainClassName="btn-3"
@@ -119,14 +121,15 @@ export const LandingPage = () => {
                 divClassName="btn-instance"
                 divClassNameOverride="btn-instance"
                 override={
-                  <PlayStore
+                  <img
                     className="play-store-instance"
-                    playStore="/img/play-store-1-2x.png"
+                    src="/img/vector-74.png"
+                    alt="Bramp logo"
                   />
                 }
                 property1="default"
-                text="Get it on"
-                text1="Google Play"
+                text="Install our"
+                text1="Bramp App"
               />
             </div>
           </div>
@@ -135,7 +138,7 @@ export const LandingPage = () => {
             <img
               className="hero-image"
               alt="Hero section hand"
-              src="/img/Herosechand.svg"
+              src="/img/Herosechand1.svg"
             />
           </div>
         </div>

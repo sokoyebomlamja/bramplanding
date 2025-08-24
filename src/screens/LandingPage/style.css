@@ -236,7 +236,7 @@
   align-items: center;
   display: inline-flex;
   flex: 0 0 auto;
-  gap: 24px;
+  gap: 20px;
   position: relative;
 }
 
@@ -255,6 +255,7 @@
   position: relative !important;
   top: unset !important;
   width: 32px !important;
+  filter: brightness(0) !important;
 }
 
 .landing-page .btn-instance {
@@ -270,6 +271,7 @@
 .landing-page .btn-3 {
   background-color: var(--primitive-purple-purple-2) !important;
   border-color: var(--tokens-dark-text) !important;
+  margin-left: 40px !important;
 }
 
 .landing-page .hero-image-wrapper {
