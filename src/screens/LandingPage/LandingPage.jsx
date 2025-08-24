@@ -89,7 +89,8 @@ export const LandingPage = () => {
               <p className="p">Take control of your digital assets</p>
 
               <p className="text-wrapper-49">
-                Buy and Sell Crypto with Bramp AI Agent on Whatsapp & Mobile App.
+                Buy and Sell Crypto with Bramp AI Agent on Whatsapp
+                & Mobile App.
               </p>
 
               <div className="frame-20">
