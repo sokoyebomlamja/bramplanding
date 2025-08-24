@@ -272,19 +272,26 @@
   border-color: var(--tokens-dark-text) !important;
 }
 
-.landing-page .free-iphone-pro-wrapper {
+.landing-page .hero-image-wrapper {
   flex: 1;
   flex-grow: 1;
   position: relative;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding-right: 40px;
+  background: transparent;
 }
 
-.landing-page .free-iphone-pro {
-  aspect-ratio: 1.08;
-  height: 625px;
-  left: -246px;
-  object-fit: cover;
-  position: absolute;
-  top: -16px;
+.landing-page .hero-image {
+  max-height: 90%;
+  width: auto;
+  object-fit: contain;
+  position: relative;
+  top: -196px;
+  right: -60px;
+  mix-blend-mode: multiply;
+  filter: contrast(1);
   width: 781px;
 }
 

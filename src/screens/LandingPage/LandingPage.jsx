@@ -89,8 +89,8 @@ export const LandingPage = () => {
               <p className="p">Take control of your digital assets</p>
 
               <p className="text-wrapper-49">
-                With Bramp, you’re in charge — buy, sell, and trade crypto and
-                gift cards on your own terms, securely and instantly.
+              Buy and Sell Crypto with Bramp AI Agent on Whatsapp
+          <p> & Mobile App. </p>
               </p>
 
               <div className="frame-20">
@@ -131,11 +131,11 @@ export const LandingPage = () => {
             </div>
           </div>
 
-          <div className="free-iphone-pro-wrapper">
+          <div className="hero-image-wrapper">
             <img
-              className="free-iphone-pro"
-              alt="Free iphone pro"
-              src="/img/free-iphone-15-pro-hand-mockup-mockuuups-studio-2.png"
+              className="hero-image"
+              alt="Hero section hand"
+              src="/img/Herosechand.svg"
             />
           </div>
         </div>
