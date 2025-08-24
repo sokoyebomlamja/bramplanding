@@ -90,7 +90,7 @@ export const LandingPage = () => {
 
               <p className="text-wrapper-49">
                 Buy and Sell Crypto with Bramp AI Agent on Whatsapp
-                 </p> & Mobile App.
+            <p> & Mobile App. </p>
               </p>
 
               <div className="frame-20">
